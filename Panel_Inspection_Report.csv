@@ -1,0 +1,148 @@
+Floor,Room Number,Panel Type,Panel Name/Label,Amperage,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
+TEP Plant,TEP Main Switch Electrical Room,Branch Panel,HP-EQ-CP,150A,480Y/277V,3P4W,EMD-CP,Wall-mounted,Emergency,
+TEP Plant,TEP Main Switch Electrical Room,Branch Panel,LP-EQ-CP,100A,208Y/120V,3P4W,T-LP-EQ-CP,Wall-mounted,Emergency,
+TEP Plant,TEP Plant,Branch Panel,HP-CR-CP,200A,480Y/277V,3P4W,E HDP-CR,Wall-mounted,Emergency,
+TEP Plant,TEP Plant,Branch Panel,HP-CR-CP-A,200A,480Y/277V,3P4W,E HDP-CR,Wall-mounted,Emergency,
+TEP Plant,TEP Plant,Branch Panel,HP-CP-A,200A,480Y/277V,3P4W,MD-CP-2,Wall-mounted,Normal,
+TEP Plant,TEP Plant,Branch Panel,HP-CP-B,225A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,
+TEP Plant,TEP Plant,Branch Panel,LP-CR-CP,150A,208Y/120V,3P4W,T-LP-CR-CP,Wall-mounted,Emergency,
+TEP Plant,TEP Plant,Branch Panel,LP-CR-CP-B,150A,208Y/120V,3P4W,T-LP-CR-CP-B,Wall-mounted,Emergency,
+TEP Plant,TEP Plant,Branch Panel,LP-CP,150A,208Y/120V,3P4W,T-LP-CP,Wall-mounted,Normal,
+TEP Plant,TEP Plant,Branch Panel,LP-CP-2,80A,208Y/120V,3P4W,LP-CP,Wall-mounted,Normal,
+TEP Plant,TEP Plant,Feeder Panel,EMD-CP,400A,480Y/277V,3P4W,E HDP-EE1,Wall-mounted,Emergency,Emergency feeder panel
+Ground,Cyber,Branch Panel,HP-LACC,150A,480Y/277V,3P4W,MDA-HB,Wall-mounted,Normal,Normal branch panel
+Ground,Cyber,Branch Panel,LP-LACC,150A,208Y/120V,3P4W,T-LACC,Wall-mounted,Normal,Normal branch panel
+Ground,ZL0.214,Branch Panel,LDP-RAD,250A,208Y/120V,3P4W,T-LDP-RAD,Wall-mounted,Normal,Lighting/power
+Ground,ZL0.214,Feeder Panel,HDP-RAD,800A,480Y/277V,3P4W,MSB-CP,Wall-mounted,Normal,Distribution
+Ground,ZL0.506,Feeder Panel,HDP-RAD,800A,480Y/277V,3P4W,MSB-CP,Wall-mounted,Normal,Main distribution for Radiology
+Ground,ZL0.602,Branch Panel,HP-GA,150A,480Y/277V,3P4W,HDP-H1,Wall-mounted,Normal,Lighting/power
+Ground,ZL0.602,Branch Panel,LP-CR-GB,250A,208Y/120V,3P4W,LP-CR-GB,Wall-mounted,Emergency,Emergency panel
+Ground,ZL0.602,Branch Panel,LP-GC,100A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Lighting/power
+Ground,ZL0.602,Branch Panel,LP-GA,225A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Lighting/power
+Ground,ZL0.602,Branch Panel,LP-GA Sec 2,225A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Section continuation
+Ground,ZL0.602,Feeder Panel,HDP-H1,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Distribution
+Ground,ZL0.602,Feeder Panel,HP-K,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Distribution
+Ground,ZL0.602,Feeder Panel,LDP-H1,1000A,208Y/120V,3P4W,HDP-PH,Wall-mounted,Normal,Lighting/power
+Ground,ZL0.602,Feeder Panel,DP-K,800A,208Y/120V,3P4W,T-DP-K,Wall-mounted,Normal,Lighting/power
+Ground,ZL0.604,Branch Panel,HP-CR-GB,200A,480Y/277V,3P4W,EHDP-CR-H,Wall-mounted,Emergency,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-LS-GB,50A,208Y/120V,3P4W,T-LP-LS-GB,Wall-mounted,Emergency,Lighting/signal
+Ground,ZL0.604,Branch Panel,LP-LS-GA,50A,208Y/120V,3P4W,T-LP-LS-GA,Wall-mounted,Emergency,Fire alarm/emergency
+Ground,ZL0.604,Branch Panel,HP-LS-GA,100A,480Y/277V,3P4W,EHDP-LS,Wall-mounted,Emergency,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-CR-G3,250A,208Y/120V,3P4W,T-LP-CR-G3,Wall-mounted,Emergency,Emergency branch
+Ground,ZL0.604,Branch Panel,HP-CR-GA,100A,480Y/277V,3P4W,EHDP-CR-H,Wall-mounted,Emergency,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-CR-GA,200A,208Y/120V,3P4W,ELDP-CR-H,Wall-mounted,Emergency,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-CR-GA Sec 2,200A,208Y/120V,3P4W,LP-CR-GA,Wall-mounted,Emergency,Section continuation
+Ground,ZL0.604,Feeder Panel,EHDP-LS,225A,480Y/277V,3P4W,ATS-LS,Wall-mounted,Emergency,Emergency distribution
+Ground,ZL0.604,Feeder Panel,EHDP-CR-H,400A,480Y/277V,3P4W,EHDP-CR,Wall-mounted,Emergency,Emergency distribution
+Ground,ZL0.604,Feeder Panel,ELDP-CR-H,400A,208Y/120V,3P4W,T-ELDP-CR-H,Wall-mounted,Emergency,Emergency lighting/power
+Ground,ZL0.704G,Branch Panel,ELDP-CR-H2,400A,208Y/120V,3P4W,T-ELDP-CR-H2,Wall-mounted,Emergency,Lighting/power
+Ground,ZL0.704G,Branch Panel,HP-B,150A,480Y/277V,3P4W,MDB-HB,Wall-mounted,Normal,Lighting/power
+Ground,ZL0.704G,Branch Panel,LP-B,100A,208Y/120V,3P4W,T-LP-B,Wall-mounted,Normal,Lighting/power
+Ground,ZL0.704G,Branch Panel,HP-EQ-B,150A,480Y/277V,3P4W,EMDB-HB,Wall-mounted,Emergency,Equipment power
+Ground,ZL0.704G,Branch Panel,LP-EQ-B,100A,208Y/120V,3P4W,T-LP-EQ-B,Wall-mounted,Emergency,Equipment power
+Ground,ZL0.704G,Feeder Panel,EMDB-HB,600A,480Y/277V,3P4W,EHDP-EE2,Wall-mounted,Emergency,Emergency main distribution
+Ground,ZL0.704G,Feeder Panel,EMDB-HB Sec 2,600A,480Y/277V,3P4W,EHDP-EE2,Wall-mounted,Emergency,Section 2
+Ground,ZL0.704G,Feeder Panel,MDB-HB,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Main distribution
+Ground,ZL0.704G,Feeder Panel,MDB-HB Sec 2,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Section 2
+Ground,ZL0.706,Branch Panel,LP-CR-2,150A,208Y/120V,3P4W,T-LP-CR-2,Wall-mounted,Emergency,Emergency lighting/power
+Ground,ZL0.706,Branch Panel,LP-CR-GD,250A,208Y/120V,3P4W,T-LP-CR-GD,Wall-mounted,Emergency,Emergency lighting/power
+Ground,ZL0.706,Branch Panel,LP-GD,100A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Lighting/power
+Ground,ZL0.706,Branch Panel,LP-GB,225A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Lighting/power
+Ground,ZL0.706,Branch Panel,LP-GB Sec 2,225A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Section continuation
+Ground,ZL0.706,Feeder Panel,EHDP-CR-X,1200A,480Y/277V,3P4W,ATS-CRDX,Wall-mounted,Emergency,Emergency distribution
+Ground,ZL0.802,Branch Panel,HP-A,150A,480Y/277V,3P4W,MDA-HB,Wall-mounted,Normal,Normal branch panel
+Ground,ZL0.802,Branch Panel,HP-EQ-A,150A,480Y/277V,3P4W,EMDA-HB,Wall-mounted,Emergency,Emergency branch panel
+Ground,ZL0.802,Branch Panel,LP-A,100A,208Y/120V,3P4W,T-LP-A,Wall-mounted,Normal,Normal branch panel
+Ground,ZL0.802,Branch Panel,LP-EQ-A,100A,208Y/120V,3P4W,T-LP-EQ-A,Wall-mounted,Emergency,Emergency branch panel
+Ground,ZL0.904E,Feeder Panel,E HDP-EE1,800A,480Y/277V,3P4W,ATS-EE1,Switchboard,Emergency,
+Ground,ZL0.904E,Feeder Panel,E HDP-EE2,800A,480Y/277V,3P4W,ATS-EE2,Switchboard,Emergency,
+Ground,ZL0.904E,Feeder Panel,E HDP-CR,600A,480Y/277V,3P4W,ATS-CR,Switchboard,Emergency,
+2nd Floor,PROCEDURE 1,Branch Panel,PROCEDURE 1,100A,208Y/120V,3P4W,ELDP-OR,Wall-mounted,Emergency,
+2nd Floor,PROCEDURE 2,Branch Panel,PROCEDURE 2,100A,208Y/120V,3P4W,ELDP-OR,Wall-mounted,Emergency,
+2nd Floor,ZL2.106,Branch Panel,LP-EQ-2B,100A,208Y/120V,3P4W,T-LP-EQ-2B,Wall-mounted,Emergency,
+2nd Floor,ZL2.106,Feeder Panel,HP-EQ-2B,150A,480Y/277V,3P4W,EMDA-HB,Wall-mounted,Emergency,
+2nd Floor,ZL2.406,Branch Panel,LP-LS-2A,100A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,
+2nd Floor,ZL2.406,Feeder Panel,HP-LS-2A,100A,480Y/277V,3P4W,HDP-H1,Wall-mounted,Normal,
+2nd Floor,ZL2.410,Branch Panel,LP-CR-2BB,100A,208Y/120V,3P4W,ELDP-CR-H1,Wall-mounted,Emergency,
+2nd Floor,ZL2.410,Branch Panel,LP-2BB,100A,208Y/120V,3P4W,LDP-H2,Wall-mounted,Normal,
+2nd Floor,ZL2.818A,Branch Panel,LP-EQ-2A,100A,208Y/120V,3P4W,T-LP-EQ-2A,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Branch Panel,LP-2A,100A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,
+2nd Floor,ZL2.818A,Branch Panel,LP-CR-2A,200A,208Y/120V,3P4W,ELDP-CR-H,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Branch Panel,LP-CR-2A SECTION 2,200A,208Y/120V,3P4W,LP-CR-2A,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Feeder Panel,HP-EQ-2A,150A,480Y/277V,3P4W,EMDA-HB,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Feeder Panel,HP-2A,100A,480Y/277V,3P4W,HDP-H1,Wall-mounted,Normal,
+2nd Floor,ZL2.818A,Feeder Panel,HP-CR-2A,100A,480Y/277V,3P4W,EHDP-CR-H,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Feeder Panel,EHDP-OR1,400A,480Y/277V,3P4W,EHDP-CR-X,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Feeder Panel,ELDP-OR,500A,480Y/277V,3P4W,T-ELDP-OR,Wall-mounted,Emergency,
+3rd Floor,ZL3.114,Branch Panel,LP-CR-3C,125A,208Y/120V,3P4W,ELDP-CR-H,Wall-mounted,Emergency,Branch circuit panel
+3rd Floor,ZL3.114,Branch Panel,LP-CR-3D,100A,208Y/120V,3P4W,ELDP-CR-H1,Wall-mounted,Emergency,Branch circuit panel
+3rd Floor,ZL3.114,Branch Panel,LP-3C,100A,208Y/120V,3P4W,LDP-H2,Wall-mounted,Normal,Branch circuit panel
+3rd Floor,ZL3.114,Feeder Panel,ELDP-CR-H1,400A,208Y/120V,3P4W,T-ELDP-CR-H1,Wall-mounted,Emergency,Emergency lighting/power feeder panel
+3rd Floor,ZL3.114,Feeder Panel,LDP-H2,400A,208Y/120V,3P4W,HDP-H1,Wall-mounted,Normal,Lighting/power feeder panel
+3rd Floor,ZL3.130H,Branch Panel,LP-3A,100A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Branch circuit panel
+3rd Floor,ZL3.130H,Branch Panel,LP-3E,100A,208Y/120V,3P4W,LDP-H2,Wall-mounted,Normal,Branch circuit panel
+3rd Floor,ZL3.130H,Branch Panel,LP-3D,100A,208Y/120V,3P4W,LDP-H2,Wall-mounted,Normal,Branch circuit panel
+3rd Floor,ZL3.130H,Branch Panel,LP-CR-3A,150A,208Y/120V,3P4W,ELDP-CR-H,Wall-mounted,Emergency,Emergency branch panel
+3rd Floor,ZL3.130H,Branch Panel,LP-CR-3E,100A,208Y/120V,3P4W,ELDP-CR-H1,Wall-mounted,Emergency,Emergency branch panel
+3rd Floor,ZL3.130H,Branch Panel,LP-CR-3F,100A,208Y/120V,3P4W,ELDP-CR-H1,Wall-mounted,Emergency,Emergency branch panel
+3rd Floor,ZL3.130H,Branch Panel,LP-CR-3F Sec 2,100A,208Y/120V,3P4W,LP-CR-3F,Wall-mounted,Emergency,Branch circuit panel
+3rd Floor,ZL3.538,Branch Panel,HP-3A,100A,480Y/277V,3P4W,HDP-H1,Wall-mounted,Normal,Lighting/power branch panel
+3rd Floor,ZL3.538,Branch Panel,HP-CR-3A,100A,480Y/277V,3P4W,EHDP-CR-H,Wall-mounted,Emergency,Emergency branch panel
+3rd Floor,ZL3.538,Branch Panel,LP-3B,100A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Lighting/power branch panel
+3rd Floor,ZL3.538,Branch Panel,LP-CR-3B,225A,208Y/120V,3P4W,ELDP-CR-H,Wall-mounted,Emergency,Emergency branch panel
+4th Floor,ZL4.331,Branch Panel,HP-CR-4A,100A,480Y/277V,3P4W,HP-CR-5A,Wall-mounted,Normal,Standard labeling; not generator-backed
+4th Floor,ZL4.331,Branch Panel,LP-4B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,Normal power
+4th Floor,ZL4.331,Branch Panel,LP-CR-4A,100A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Normal,Critical branch
+4th Floor,ZL4.331,Branch Panel,LP-4A,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Normal power
+4th Floor,ZL4.331,Branch Panel,LP-4A Section 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Continuation section of LP-4A
+4th Floor,ZL4.331,Branch Panel,HP-4A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,Lighting/mechanical loads
+4th Floor,ZL4.331,Branch Panel,LP-CR-4B,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Normal,Critical branch
+5th Floor,ZL5.236,Branch Panel,HP-CR-5A,100A,480Y/277V,3P4W,HP-CR-6A,Wall-mounted,Emergency,Schneider Square D
+5th Floor,ZL5.236,Branch Panel,LP-CR-5A,100A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,Handwritten circuits 5; 11; 3; 7; 9
+5th Floor,ZL5.236,Branch Panel,LP-CR-5B,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Emergency,
+5th Floor,ZL5.236,Branch Panel,LP-5A,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,
+5th Floor,ZL5.236,Branch Panel,LP-5A Section 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Continuation of LP-5A
+5th Floor,ZL5.236,Branch Panel,HP-5A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,
+5th Floor,ZL5.236,Branch Panel,LP-5B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,
+5th Floor,ZL5.236,Branch Panel,HP-LS-5A,100A,480Y/277V,3P4W,EHDP-LS,Wall-mounted,Emergency,
+5th Floor,ZL5.236,Branch Panel,LP-LS-5A,50A,208Y/120V,3P4W,T-LP-LS-5A,Wall-mounted,Emergency,Fire alarm/emergency circuit inside
+6th Floor,ZL6.236,Branch Panel,HP-CR-6A,100A,480Y/277V,3P4W,EHDP-CR-HPH,Wall-mounted,Emergency,
+6th Floor,ZL6.236,Branch Panel,LP-CR-6C,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Emergency,
+6th Floor,ZL6.236,Branch Panel,LP-CR-6A,100A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,
+6th Floor,ZL6.236,Branch Panel,LP-6A,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,
+6th Floor,ZL6.236,Branch Panel,LP-6A SECTION 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,
+6th Floor,ZL6.236,Branch Panel,HP-6A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,
+6th Floor,ZL6.236,Branch Panel,LP-6B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,
+6th Floor,ZL6.236,Branch Panel,LP-CR-6B,50A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,
+7th Floor,ZL7.236,Branch Panel,LP-CR-7BA,60A,208Y/120V,3P4W,LP-CR-7B,Wall-mounted,Emergency,
+7th Floor,ZL7.236,Branch Panel,HP-CR-7A,100A,480Y/277V,3P4W,HP-CR-8A,Wall-mounted,Emergency,
+7th Floor,ZL7.236,Branch Panel,LP-CR-7A,100A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,
+7th Floor,ZL7.236,Branch Panel,LP-7A,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,
+7th Floor,ZL7.236,Branch Panel,LP-7A SECTION 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,
+7th Floor,ZL7.236,Branch Panel,HP-7A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,
+7th Floor,ZL7.236,Branch Panel,LP-7B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,
+7th Floor,ZL7.236,Branch Panel,LP-CR-7B,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Emergency,
+8th Floor,ZL8.224,Branch Panel,HP-CR-8A,100A,480Y/277V,3P4W,E HDP-CR-HPH,Wall-mounted,Emergency,Emergency branch circuit panel
+8th Floor,ZL8.224,Branch Panel,LP-CR-8A,100A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,Emergency lighting/power branch panel
+8th Floor,ZL8.224,Branch Panel,LP-CR-8B,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Emergency,Emergency lighting/power branch panel
+8th Floor,ZL8.224,Branch Panel,HP-LS-8A,100A,480Y/277V,3P4W,HP-LS-5A,Wall-mounted,Emergency,Life safety branch circuit panel
+8th Floor,ZL8.224,Branch Panel,LP-LS-8A,50A,208Y/120V,3P4W,T-LP-LS-8A,Wall-mounted,Emergency,Fire alarm/emergency branch panel
+8th Floor,ZL8.224,Branch Panel,HP-8A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,Normal power branch circuit panel
+8th Floor,ZL8.224,Branch Panel,LP-8A,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Normal lighting/power branch panel
+8th Floor,ZL8.224,Branch Panel,LP-8A Section 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Continuation section of LP-8A
+8th Floor,ZL8.224,Branch Panel,LP-8B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,Normal lighting/power branch panel
+9th Floor,9th Floor Electrical Room,Branch Panel,LP-9A,100A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Square D branch-circuit panel
+9th Floor,9th Floor Electrical Room,Feeder Panel,E HDP-CR-HPH,250A,480Y/277V,3P4W,E HDP-CR,Wall-mounted,Emergency,Square D I-Line feeder panel
+9th Floor,9th Floor Electrical Room,Feeder Panel,ELDP-CR-HPH,400A,208Y/120V,3P4W,T-ELDP-CR-HPH,Wall-mounted,Normal,Square D I-Line feeder panel
+9th Floor,9th Floor Electrical Room,Feeder Panel,ELDP-CR-HPH1,400A,208Y/120V,3P4W,T-ELDP-CR-HPH1,Wall-mounted,Normal,Square D I-Line feeder panel
+9th Floor,9th Floor Electrical Room,Feeder Panel,LDP-PH1,400A,208Y/120V,3P4W,T-LDP-PH1,Wall-mounted,Normal,Square D I-Line feeder panel
+9th Floor,9th Floor Electrical Room,Feeder Panel,LDP-PH,1000A,208Y/120V,3P4W,T-LDP-PH,Wall-mounted,Normal,Square D I-Line feeder panel
+9th Floor,9th Floor Electrical Room,Feeder Panel,HDP-PH,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Square D I-Line feeder panel
+9th Floor,9th Floor Elevator Room 1,Branch Panel,FRT ELEV LOAD CENTER,,,,,Wall-mounted,,Freight Elevator Load Center
+9th Floor,9th Floor Elevator Room 1,Feeder Panel,DP-2,350A,480Y/277V,3P4W,E-HDP-EE2,Wall-mounted,Emergency,Square D I-Line feeder panel
+9th Floor,9th Floor Elevator Room 2,Branch Panel,PASS ELEV LOAD CENTER,,,,,Wall-mounted,,Passenger Elevator Load Center
+9th Floor,9th Floor Elevator Room 2,Feeder Panel,DP-1,225A,480Y/277V,3P4W,E-HDP-EE2,Wall-mounted,Emergency,Square D I-Line feeder panel
+9th Floor,Penthouse General Area,Feeder Panel,MD-PH,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Square D I-Line feeder panel
+9th Floor,Penthouse General Area,Feeder Panel,HP-PH,150A,480Y/277V,3P4W,MD-PH,Wall-mounted,Normal,Square D I-Line feeder panel
+9th Floor,Penthouse General Area,Feeder Panel,LP-PH,100A,208Y/120V,3P4W,T-LP-PH,Wall-mounted,Normal,Square D I-Line feeder panel
+9th Floor,Penthouse General Area,Feeder Panel,LP-EQ-PH,100A,208Y/120V,3P4W,LP-EQ-2A,Wall-mounted,Emergency,Square D I-Line feeder panel
