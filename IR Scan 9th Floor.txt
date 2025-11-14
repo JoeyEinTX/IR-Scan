@@ -1,0 +1,42 @@
+| Room Number | Equipment Type | Equipment Name / Label | Amperage / kVA | Voltage | Phase / Wire | Fed From | Mounting | Tag Color | Notes |
+|--------------|----------------|------------------------|----------------|----------|---------------|-----------|-----------|-----------|--------|
+| 9th Floor Electrical Room | Feeder Panel | E HDP-CR-HPH | 250A | 480Y/277V | 3P4W | E HDP-CR | Wall | Red | Square D I-Line feeder panel |
+| 9th Floor Electrical Room | Feeder Panel | ELDP-CR-HPH | 400A | 208Y/120V | 3P4W | T-ELDP-CR-HPH | Wall | White | Square D I-Line feeder panel |
+| 9th Floor Electrical Room | Feeder Panel | ELDP-CR-HPH1 | 400A | 208Y/120V | 3P4W | T-ELDP-CR-HPH1 | Wall | White | Square D I-Line feeder panel |
+| 9th Floor Electrical Room | Feeder Panel | LDP-PH1 | 400A | 208Y/120V | 3P4W | T-LDP-PH1 | Wall | White | Square D I-Line feeder panel |
+| 9th Floor Electrical Room | Branch Panel | LP-9A | 100A | 208Y/120V | 3P4W | LDP-PH | Wall | White | Square D branch-circuit panel |
+| 9th Floor Electrical Room | Feeder Panel | LDP-PH | 1000A | 208Y/120V | 3P4W | T-LDP-PH | Wall | White | Square D I-Line feeder panel |
+| 9th Floor Electrical Room | Feeder Panel | HDP-PH | 800A | 480Y/277V | 3P4W | MSB-HB | Wall | White | Square D I-Line feeder panel |
+| 9th Floor Electrical Room | Transformer | T-ELDP-CR-HPH | 112.5 kVA | 480?208Y/120 V | 3P4W | E HDP-CR-HPH | Floor | White | Step-down, floor-mounted |
+| 9th Floor Electrical Room | Transformer | T-ELDP-CR-HPH1 | 112.5 kVA | 480?208Y/120 V | 3P4W | E HDP-CR-HPH | Floor | White | Step-down, floor-mounted |
+| 9th Floor Electrical Room | Transformer | T-LDP-PH1 | 150 kVA | 480?208Y/120 V | 3P3W | HDP-PH | Floor | White | Step-down, floor-mounted |
+| 9th Floor Electrical Room | Transformer | T-LDP-PH | 300 kVA | 480?208Y/120 V | 3P3W | HDP-PH | Floor | White | Step-down, floor-mounted |
+| Penthouse General Area | Feeder Panel | MD-PH | 800A | 480Y/277V | 3P4W | MSB-HB | Wall | White | Square D I-Line feeder panel |
+| Penthouse General Area | Feeder Panel | HP-PH | 150A | 480Y/277V | 3P4W | MD-PH | Wall | White | Square D I-Line feeder panel |
+| Penthouse General Area | Feeder Panel | LP-PH | 100A | 208Y/120V | 3P4W | T-LP-PH | Wall | White | Square D I-Line feeder panel |
+| Penthouse General Area | Feeder Panel | LP-EQ-PH | 100A | 208Y/120V | 3P4W | LP-EQ-2A | Wall | Red | Square D I-Line feeder panel |
+| Penthouse General Area | Transformer | T-LP-PH | 30 kVA | 480?208Y/120 V | 3P3W | HP-PH | Floor | White | Square D dry-type, floor-mounted |
+| Penthouse General Area | Disconnect | EF-9-1 | 15A | 480Y/277V | 3P3W | MD-PH | Wall | White | Exhaust-fan disconnect |
+| 9th Floor Elevator Room 1 | Feeder Panel | DP-2 | 350A | 480Y/277V | 3P4W | E-HDP-EE2 | Wall | Red | Square D I-Line feeder panel |
+| 9th Floor Elevator Room 1 | Branch Panel | FRT ELEV LOAD CENTER | — | — | — | — | Wall | — | Freight Elevator Load Center |
+| 9th Floor Elevator Room 1 | Disconnect | ELEV A-973 | 125A | 480Y/277V | 3P3W | DP-2 | Wall | Red | Disconnect for Elevator #4 |
+| 9th Floor Elevator Room 1 | Disconnect | ELEV B-974 | 125A | 480Y/277V | 3P3W | DP-2 | Wall | Red | Disconnect for Elevator #5 |
+| 9th Floor Elevator Room 1 | Disconnect | ELEV C-975 | 125A | 480Y/277V | 3P3W | DP-2 | Wall | Red | Disconnect for Elevator #6 |
+| 9th Floor Elevator Room 1 | Transformer | Elevator 1 Transformer | 51 kVA | 480??169/92 V | 3P | — | Floor | — | Jefferson Electric 423-E500-057 |
+| 9th Floor Elevator Room 1 | DC Output Filter | Elevator 1 DC Filter | — | 600 VDC / 200 A | 1P | — | Floor | — | Jefferson Electric 300-5043-101 |
+| 9th Floor Elevator Room 1 | Transformer | Elevator 2 Transformer | 51 kVA | 480??169/92 V | 3P | — | Floor | — | Jefferson Electric 423-E500-057 |
+| 9th Floor Elevator Room 1 | DC Output Filter | Elevator 2 DC Filter | — | 600 VDC / 200 A | 1P | — | Floor | — | Jefferson Electric 300-5043-101 |
+| 9th Floor Elevator Room 1 | Transformer | Elevator 3 Transformer | 51 kVA | 480??169/92 V | 3P | — | Floor | — | Jefferson Electric 423-E500-057 |
+| 9th Floor Elevator Room 1 | DC Output Filter | Elevator 3 DC Filter | — | 600 VDC / 200 A | 1P | — | Floor | — | Jefferson Electric 300-5043-101 |
+| 9th Floor Elevator Room 1 | Transformer | Elevator 4 Transformer | 63 kVA | 480??210Y/121 V | 3P | — | Floor | — | Jefferson Electric 423-E500-174 |
+| 9th Floor Elevator Room 1 | DC Output Filter | Elevator 4 DC Filter | — | 600 VDC / 200 A | 1P | — | Floor | — | Jefferson Electric 300-5043-101 |
+| 9th Floor Elevator Room 1 | Transformer | Elevator 5 Transformer | 63 kVA | 480??210Y/121 V | 3P | — | Floor | — | Jefferson Electric 423-E500-174 |
+| 9th Floor Elevator Room 1 | DC Output Filter | Elevator 5 DC Filter | — | 600 VDC / 200 A | 1P | — | Floor | — | Jefferson Electric 300-5043-101 |
+| 9th Floor Elevator Room 1 | Transformer | Elevator 6 Transformer | 63 kVA | 480??480Y/277 V | 3P | — | Floor | — | Hammond Power Solutions DM063KK |
+| 9th Floor Elevator Room 1 | Resistor Box | Elevator 6 Resistor Box | — | 480 V | — | — | Wall/Floor | — | G.A.L / Galaxy braking resistor |
+| 9th Floor Elevator Room 2 | Feeder Panel | DP-1 | 225A | 480Y/277V | 3P4W | E-HDP-EE2 | Wall | Red | Square D I-Line feeder panel |
+| 9th Floor Elevator Room 2 | Branch Panel | PASS ELEV LOAD CENTER | — | — | — | — | Wall | — | Passenger Elevator Load Center |
+| 9th Floor Elevator Room 2 | Disconnect | ELEV 76 | 100A | 480Y/277V | 3P3W | DP-1 | Wall | Red | Eaton HD safety switch |
+| 9th Floor Elevator Room 2 | Disconnect | ELEV 77 | 100A | 480Y/277V | 3P3W | DP-1 | Wall | Red | Eaton HD safety switch |
+| 9th Floor Elevator Room 2 | Disconnect | ELEV 78 | 100A | 480Y/277V | 3P3W | DP-1 | Wall | Red | Eaton HD safety switch |
+| 9th Floor Elevator Room 2 | Transformer (Unmarked) | Elevator Transformers (6 total) | — | 480?208/120 V (est.) | 3P | — | Floor | — | Unmarked; to be IR scanned |

@@ -1,0 +1,165 @@
+Floor,Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,System Type,Fed From,Notes
+Ground,ZL0.802,Transformer,T-LP-EQ-A,30 kVA,480→208Y/120V,Emergency,HP-EQ-A,Emergency step-down
+Ground,ZL0.802,Branch Panel,HP-EQ-A,150A,480Y/277V,Emergency,EMDA-HB,Emergency branch panel
+Ground,ZL0.802,Branch Panel,LP-EQ-A,100A,208Y/120V,Emergency,T-LP-EQ-A,Emergency branch panel
+Ground,ZL0.716,Disconnect,ELEV-8,100A,480Y/277V,Emergency,EMDA-HB,Elevator #8
+Ground,ZL0.716,Disconnect,ELEV-9,100A,480Y/277V,Emergency,EMDA-HB,Elevator #9
+Ground,ZL0.602,Branch Panel,LP-CR-GB,250A,208Y/120V,Emergency,LP-CR-GB,Emergency panel
+Ground,ZL0.604,Transformer,T-LP-LS-GB,15 kVA,480→208Y/120V,Emergency,HP-LS-GA,Step-down
+Ground,ZL0.604,Transformer,T-LP-CR-G3,75 kVA,480→208Y/120V,Emergency,EHDP-CR-H,Step-down
+Ground,ZL0.604,Transformer,T-ELDP-CR-H,112.5 kVA,480→208Y/120V,Emergency,EHDP-CR-H,Step-down
+Ground,ZL0.604,Transformer,T-LP-CR-GC,45 kVA,480→208Y/120V,Emergency,T-LP-CR-GC PRI DISC,Step-down
+Ground,ZL0.604,Transformer,T-LP-LS-GA,15 kVA,480→208Y/120V,Emergency,HP-LS-GA,Step-down
+Ground,ZL0.604,Transformer,T-LP-CR-GB,45 kVA,480→208Y/120V,Emergency,EHDP-CR-H,Step-down
+Ground,ZL0.604,Feeder Panel,EHDP-LS,225A,480Y/277V,Emergency,ATS-LS,Emergency distribution
+Ground,ZL0.604,Feeder Panel,EHDP-CR-H,400A,480Y/277V,Emergency,EHDP-CR,Emergency distribution
+Ground,ZL0.604,Feeder Panel,ELDP-CR-H,400A,208Y/120V,Emergency,T-ELDP-CR-H,Emergency lighting/power
+Ground,ZL0.604,Branch Panel,HP-CR-GB,200A,480Y/277V,Emergency,EHDP-CR-H,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-LS-GB,50A,208Y/120V,Emergency,T-LP-LS-GB,Lighting/signal
+Ground,ZL0.604,Branch Panel,LP-LS-GA,50A,208Y/120V,Emergency,T-LP-LS-GA,Fire alarm/emergency
+Ground,ZL0.604,Branch Panel,HP-LS-GA,100A,480Y/277V,Emergency,EHDP-LS,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-CR-G3,250A,208Y/120V,Emergency,T-LP-CR-G3,Emergency branch
+Ground,ZL0.604,Branch Panel,HP-CR-GA,100A,480Y/277V,Emergency,EHDP-CR-H,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-CR-GA,200A,208Y/120V,Emergency,ELDP-CR-H,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-CR-GA Sec 2,200A,208Y/120V,Emergency,LP-CR-GA,Section continuation
+Ground,ZL0.604,Disconnect,T-LP-CR-GC PRI DISC,150A,480Y/277V,Emergency,EHDP-CR-H,Transformer primary
+Ground,ZL0.604,Disconnect,T-LP-CR-GC SEC DISC,150A,480Y/277V,Emergency,T-LP-CR-GC,Transformer secondary
+Ground,ZL0.706,Transformer,T-LP-CR-GD,75 kVA,480→208Y/120V,Emergency,EHDP-CR-X,Step-down
+Ground,ZL0.706,Feeder Panel,EHDP-CR-X,1200A,480Y/277V,Emergency,ATS-CRDX,Emergency distribution
+Ground,ZL0.706,Branch Panel,LP-CR-2,150A,208Y/120V,Emergency,T-LP-CR-2,Emergency lighting/power
+Ground,ZL0.706,Branch Panel,LP-CR-GD,250A,208Y/120V,Emergency,T-LP-CR-GD,Emergency lighting/power
+Ground,ZL0.706,Disconnect,APC UPS DISC,50A,208Y/120V,Emergency,LP-CR-GD,UPS disconnect
+Ground,ZL0.706,Disconnect,TRS-1 DISC,50A,208Y/120V,Emergency,LP-CR-GD,TRS equipment disconnect
+Ground,ZL0.704G,Feeder Panel,EMDB-HB,600A,480Y/277V,Emergency,EHDP-EE2,Emergency main distribution
+Ground,ZL0.704G,Feeder Panel,EMDB-HB Sec 2,600A,480Y/277V,Emergency,EHDP-EE2,Section 2
+Ground,ZL0.704G,Branch Panel,ELDP-CR-H2,400A,208Y/120V,Emergency,T-ELDP-CR-H2,Lighting/power
+Ground,ZL0.704G,Branch Panel,HP-EQ-B,150A,480Y/277V,Emergency,EMDB-HB,Equipment power
+Ground,ZL0.704G,Branch Panel,LP-EQ-B,100A,208Y/120V,Emergency,T-LP-EQ-B,Equipment power
+Ground,ZL0.704G,Disconnect,SF-1,15A,480Y/277V,Emergency,EMDB-HB,Supply fan
+Ground,ZL0.704G,Disconnect,SF-2,15A,480Y/277V,Emergency,EMDB-HB,Supply fan
+Ground,ZL0.704G,Disconnect,SF-3,30A,480Y/277V,Emergency,EMDB-HB,Supply fan
+Ground,ZL0.704G,Disconnect,SF-4,30A,480Y/277V,Emergency,EMDB-HB,Supply fan
+Ground,ZL0.904E,Feeder Panel,E HDP-EE1,800A,480Y/277V,Emergency,ATS-EE1,
+Ground,ZL0.904E,Feeder Panel,E HDP-EE2,800A,480Y/277V,Emergency,ATS-EE2,
+Ground,ZL0.904E,Feeder Panel,E HDP-CR,600A,480Y/277V,Emergency,ATS-CR,
+Ground,ZL0.904E,Main Breaker,EMSB MAIN,1200A,480Y/277V,Emergency,Emergency Generator,
+Ground,ZL0.904E,Feeder Breaker,ATS-EE1,800A,480Y/277V,Emergency,EMSB,
+Ground,ZL0.904E,Feeder Breaker,FP-2 ATS,800A,480Y/277V,Emergency,EMSB,
+Ground,ZL0.904E,Feeder Breaker,FP-1 ATS,800A,480Y/277V,Emergency,EMSB,
+Ground,ZL0.904E,Feeder Breaker,ATS-EE2,800A,480Y/277V,Emergency,EMSB,
+Ground,ZL0.904E,Feeder Breaker,ATS-CR,800A,480Y/277V,Emergency,EMSB,
+Ground,ZL0.904E,Feeder Breaker,ATS-LS,800A,480Y/277V,Emergency,EMSB,
+Ground,ZL0.904E,Feeder Breaker,ATS-OR,800A,480Y/277V,Emergency,EMSB,
+Ground,ZL0.904E,Feeder Breaker,ATS-CDPX,1600A,480Y/277V,Emergency,EMSB,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-EE1,600A,480Y/277V,Emergency,MSB-HB / EMSB,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-EE2,800A,480Y/277V,Emergency,MSB-HB / EMSB,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-CR,600A,480Y/277V,Emergency,MSB-HB / EMSB,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-LS,225A,480Y/277V,Emergency,MSB-HB / EMSB,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-OR,225A,480Y/277V,Emergency,MSB-HB / EMSB,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-CDPX,1200A,480Y/277V,Emergency,MSB-HB / EMSB,
+Ground,ZL0.904E1,Transformer,T-GENSET1,30 kVA,480→208Y/120V,Emergency,T-GENSET1 PRI DISC,
+Ground,ZL0.904E1,Transformer,T-GENSET2,30 kVA,480→208Y/120V,Emergency,T-GENSET2 PRI DISC,
+Ground,ZL0.904E1,Disconnect,T-GENSET1 PRI DISC,60A,480Y/277V,Emergency,HP-CR-CP-A,
+Ground,ZL0.904E1,Disconnect,T-GENSET1 SEC DISC,100A,480Y/277V,Emergency,T-GENSET1,
+Ground,ZL0.904E1,Disconnect,T-GENSET2 PRI DISC,60A,480Y/277V,Emergency,HP-CR-CP-A,
+Ground,ZL0.904E1,Disconnect,T-GENSET2 SEC DISC,100A,480Y/277V,Emergency,T-GENSET2,
+2nd Floor,ZL2.106,Transformer,T-LP-EQ-2B,30 kVA,480→208Y/120V,Emergency,HP-EQ-2B,
+2nd Floor,ZL2.106,Branch Panel,LP-EQ-2B,100A,208Y/120V,Emergency,T-LP-EQ-2B,
+2nd Floor,ZL2.106,Feeder Panel,HP-EQ-2B,150A,480Y/277V,Emergency,EMDA-HB,
+2nd Floor,ZL2.406,Transformer,T-LP-LS-2A,15 kVA,480→208Y/120V,Emergency,HP-LS-2A,
+2nd Floor,ZL2.410,Branch Panel,LP-CR-2BB,100A,208Y/120V,Emergency,ELDP-CR-H1,
+2nd Floor,ZL2.818A,Branch Panel,LP-EQ-2A,100A,208Y/120V,Emergency,T-LP-EQ-2A,
+2nd Floor,ZL2.818A,Feeder Panel,HP-EQ-2A,150A,480Y/277V,Emergency,EMDA-HB,
+2nd Floor,ZL2.818A,Feeder Panel,HP-CR-2A,100A,480Y/277V,Emergency,EHDP-CR-H,
+2nd Floor,ZL2.818A,Branch Panel,LP-CR-2A,200A,208Y/120V,Emergency,ELDP-CR-H,
+2nd Floor,ZL2.818A,Branch Panel,LP-CR-2A SECTION 2,200A,208Y/120V,Emergency,LP-CR-2A,
+2nd Floor,ZL2.818A,Feeder Panel,EHDP-OR1,400A,480Y/277V,Emergency,EHDP-CR-X,
+2nd Floor,ZL2.818A,Feeder Panel,ELDP-OR,500A,480Y/277V,Emergency,T-ELDP-OR,
+2nd Floor,ZL2.818A,ECB,T-ELDP-OR ECB,225A,480Y/277V,Emergency,ATS-OR,Disconnect/Breaker
+2nd Floor,ZL2.818A,Transformer,T-XFMR X-RAY,75 kVA,480→208Y/120V,Emergency,,
+2nd Floor,ZL2.818A,Transformer,T-ELDP-OR,150 kVA,480→208Y/120V,Emergency,ATS-OR,
+2nd Floor,ZL2.818A,Transformer,T-LP-EQ-2A,30 kVA,480→208Y/120V,Emergency,HP-EQ-2A,
+2nd Floor,OR-1,LIM Panel,OR1A,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-1,LIM Panel,OR1B,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-1,LIM Panel,OR1C,60A,480Y/277V,Emergency,EHDP-OR1,Identical for OR 1-10
+2nd Floor,OR-2,LIM Panel,OR2A,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-2,LIM Panel,OR2B,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-2,LIM Panel,OR2C,60A,480Y/277V,Emergency,EHDP-OR1,Identical for OR 1-10
+2nd Floor,OR-3,LIM Panel,OR3A,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-3,LIM Panel,OR3B,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-3,LIM Panel,OR3C,60A,480Y/277V,Emergency,EHDP-OR1,Identical for OR 1-10
+2nd Floor,OR-4,LIM Panel,OR4A,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-4,LIM Panel,OR4B,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-4,LIM Panel,OR4C,60A,480Y/277V,Emergency,EHDP-OR1,Identical for OR 1-10
+2nd Floor,OR-5,LIM Panel,OR5A,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-5,LIM Panel,OR5B,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-5,LIM Panel,OR5C,60A,480Y/277V,Emergency,EHDP-OR1,Identical for OR 1-10
+2nd Floor,OR-6,LIM Panel,OR6A,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-6,LIM Panel,OR6B,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-6,LIM Panel,OR6C,60A,480Y/277V,Emergency,EHDP-OR1,Identical for OR 1-10
+2nd Floor,OR-7,LIM Panel,OR7A,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-7,LIM Panel,OR7B,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-7,LIM Panel,OR7C,60A,480Y/277V,Emergency,EHDP-OR1,Identical for OR 1-10
+2nd Floor,OR-8,LIM Panel,OR8A,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-8,LIM Panel,OR8B,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-8,LIM Panel,OR8C,60A,480Y/277V,Emergency,EHDP-OR1,Identical for OR 1-10
+2nd Floor,OR-9,LIM Panel,OR9A,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-9,LIM Panel,OR9B,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-9,LIM Panel,OR9C,60A,480Y/277V,Emergency,EHDP-OR1,Identical for OR 1-10
+2nd Floor,OR-10,LIM Panel,OR10A,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-10,LIM Panel,OR10B,60A,208/120V,Emergency,ELDP-OR,Identical for OR 1-10
+2nd Floor,OR-10,LIM Panel,OR10C,60A,480Y/277V,Emergency,EHDP-OR1,Identical for OR 1-10
+2nd Floor,PROCEDURE 1,Branch Panel,PROCEDURE 1,100A,208Y/120V,Emergency,ELDP-OR,
+2nd Floor,PROCEDURE 2,Branch Panel,PROCEDURE 2,100A,208Y/120V,Emergency,ELDP-OR,
+3rd Floor,ZL3.114,Transformer,T-ELDP-CR-H1,112.5 kVA,480→208Y/120V,Emergency,EHDP-CR-H,Step-down transformer
+3rd Floor,ZL3.114,Disconnect,T-ELDP-CR-H1 Disconnect,250A,480Y/277V,Emergency,EHDP-CR-H,Feeds transformer above
+3rd Floor,ZL3.114,Feeder Panel,ELDP-CR-H1,400A,208Y/120V,Emergency,T-ELDP-CR-H1,Emergency lighting/power feeder panel
+3rd Floor,ZL3.114,Branch Panel,LP-CR-3C,125A,208Y/120V,Emergency,ELDP-CR-H,Branch circuit panel
+3rd Floor,ZL3.114,Branch Panel,LP-CR-3D,100A,208Y/120V,Emergency,ELDP-CR-H1,Branch circuit panel
+3rd Floor,ZL3.538,Branch Panel,HP-CR-3A,100A,480Y/277V,Emergency,EHDP-CR-H,Emergency branch panel
+3rd Floor,ZL3.538,Branch Panel,LP-CR-3B,225A,208Y/120V,Emergency,ELDP-CR-H,Emergency branch panel
+3rd Floor,ZL3.130H,Branch Panel,LP-CR-3A,150A,208Y/120V,Emergency,ELDP-CR-H,Emergency branch panel
+3rd Floor,ZL3.130H,Branch Panel,LP-CR-3E,100A,208Y/120V,Emergency,ELDP-CR-H1,Emergency branch panel
+3rd Floor,ZL3.130H,Branch Panel,LP-CR-3F,100A,208Y/120V,Emergency,ELDP-CR-H1,Emergency branch panel
+3rd Floor,ZL3.130H,Branch Panel,LP-CR-3F Sec 2,100A,208Y/120V,Emergency,LP-CR-3F,Branch circuit panel
+5th Floor,ZL5.236,Branch Panel,HP-CR-5A,100A,480Y/277V,Emergency,HP-CR-6A,Schneider Square D
+5th Floor,ZL5.236,Branch Panel,LP-CR-5A,100A,208Y/120V,Emergency,ELDP-CR-HPH,Handwritten circuits 5; 11; 3; 7; 9
+5th Floor,ZL5.236,Branch Panel,LP-CR-5B,100A,208Y/120V,Emergency,ELDP-CR-HPH1,
+5th Floor,ZL5.236,Branch Panel,HP-LS-5A,100A,480Y/277V,Emergency,EHDP-LS,
+5th Floor,ZL5.236,Branch Panel,LP-LS-5A,50A,208Y/120V,Emergency,T-LP-LS-5A,Fire alarm/emergency circuit inside
+5th Floor,ZL5.236,Transformer,T-LP-LS-5A,15 kVA,480→208Y/120V,Emergency,HP-LS-5A,Square D - mounted above rack
+6th Floor,ZL6.236,Branch Panel,HP-CR-6A,100A,480Y/277V,Emergency,EHDP-CR-HPH,
+6th Floor,ZL6.236,Branch Panel,LP-CR-6C,100A,208Y/120V,Emergency,ELDP-CR-HPH1,
+6th Floor,ZL6.236,Branch Panel,LP-CR-6A,100A,208Y/120V,Emergency,ELDP-CR-HPH,
+6th Floor,ZL6.236,Branch Panel,LP-CR-6B,50A,208Y/120V,Emergency,ELDP-CR-HPH,
+7th Floor,ZL7.236,Branch Panel,LP-CR-7BA,60A,208Y/120V,Emergency,LP-CR-7B,
+7th Floor,ZL7.236,Branch Panel,HP-CR-7A,100A,480Y/277V,Emergency,HP-CR-8A,
+7th Floor,ZL7.236,Branch Panel,LP-CR-7A,100A,208Y/120V,Emergency,ELDP-CR-HPH,
+7th Floor,ZL7.236,Branch Panel,LP-CR-7B,100A,208Y/120V,Emergency,ELDP-CR-HPH1,
+8th Floor,ZL8.224,Branch Panel,HP-CR-8A,100A,480Y/277V,Emergency,E HDP-CR-HPH,Emergency branch circuit panel
+8th Floor,ZL8.224,Branch Panel,LP-CR-8A,100A,208Y/120V,Emergency,ELDP-CR-HPH,Emergency lighting/power branch panel
+8th Floor,ZL8.224,Branch Panel,LP-CR-8B,100A,208Y/120V,Emergency,ELDP-CR-HPH1,Emergency lighting/power branch panel
+8th Floor,ZL8.224,Branch Panel,HP-LS-8A,100A,480Y/277V,Emergency,HP-LS-5A,Life safety branch circuit panel
+8th Floor,ZL8.224,Branch Panel,LP-LS-8A,50A,208Y/120V,Emergency,T-LP-LS-8A,Fire alarm/emergency branch panel
+8th Floor,ZL8.224,Transformer,T-LP-LS-8A,15 kVA,480→208Y/120V,Emergency,HP-LS-8A,Step-down transformer
+9th Floor,9th Floor Electrical Room,Feeder Panel,E HDP-CR-HPH,250A,480Y/277V,Emergency,E HDP-CR,Square D I-Line feeder panel
+9th Floor,Penthouse General Area,Feeder Panel,LP-EQ-PH,100A,208Y/120V,Emergency,LP-EQ-2A,Square D I-Line feeder panel
+9th Floor,9th Floor Elevator Room 1,Feeder Panel,DP-2,350A,480Y/277V,Emergency,E-HDP-EE2,Square D I-Line feeder panel
+9th Floor,9th Floor Elevator Room 1,Disconnect,ELEV A-973,125A,480Y/277V,Emergency,DP-2,Disconnect for Elevator #4
+9th Floor,9th Floor Elevator Room 1,Disconnect,ELEV B-974,125A,480Y/277V,Emergency,DP-2,Disconnect for Elevator #5
+9th Floor,9th Floor Elevator Room 1,Disconnect,ELEV C-975,125A,480Y/277V,Emergency,DP-2,Disconnect for Elevator #6
+9th Floor,9th Floor Elevator Room 2,Feeder Panel,DP-1,225A,480Y/277V,Emergency,E-HDP-EE2,Square D I-Line feeder panel
+9th Floor,9th Floor Elevator Room 2,Disconnect,ELEV 76,100A,480Y/277V,Emergency,DP-1,Eaton HD safety switch
+9th Floor,9th Floor Elevator Room 2,Disconnect,ELEV 77,100A,480Y/277V,Emergency,DP-1,Eaton HD safety switch
+9th Floor,9th Floor Elevator Room 2,Disconnect,ELEV 78,100A,480Y/277V,Emergency,DP-1,Eaton HD safety switch
+TEP Plant,TEP Plant,Feeder Panel,EMD-CP,400A,480Y/277V,Emergency,E HDP-EE1,Emergency feeder panel
+TEP Plant,TEP Plant,Branch Panel,HP-CR-CP,200A,480Y/277V,Emergency,E HDP-CR,
+TEP Plant,TEP Plant,Branch Panel,HP-CR-CP-A,200A,480Y/277V,Emergency,E HDP-CR,
+TEP Plant,TEP Plant,Branch Panel,LP-CR-CP,150A,208Y/120V,Emergency,T-LP-CR-CP,
+TEP Plant,TEP Plant,Branch Panel,LP-CR-CP-B,150A,208Y/120V,Emergency,T-LP-CR-CP-B,
+TEP Plant,TEP Plant,Transformer,T-LP-CR-CP,45 kVA,480→208Y/120V,Emergency,HP-CR-CP,Square D dry-type transformer
+TEP Plant,TEP Plant,Automatic Transfer Switch,Fire Pump 1 ATS,400A,480Y/277V,Emergency,Normal: XFMR CP / Emergency: EMSB,Tornatech fire pump controller - Pump #1
+TEP Plant,TEP Plant,Automatic Transfer Switch,Fire Pump 2 ATS,400A,480Y/277V,Emergency,Normal: XFMR CP / Emergency: EMSB,Tornatech fire pump controller - Pump #2
+TEP Plant,TEP Main Switch Electrical Room,Branch Panel,HP-EQ-CP,150A,480Y/277V,Emergency,EMD-CP,
+TEP Plant,TEP Main Switch Electrical Room,Branch Panel,LP-EQ-CP,100A,208Y/120V,Emergency,T-LP-EQ-CP,
+TEP Plant,TEP Main Switch Electrical Room,Transformer,T-LP-EQ-CP,30 kVA,480→208Y/120V,Emergency,HP-EQ-CP,Square D dry-type transformer

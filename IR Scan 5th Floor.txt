@@ -1,0 +1,12 @@
+| Room Number | Equipment Type   | Equipment Name / Label | Amperage / kVA | Voltage        | Phase / Wire | Fed From     | Mounting            | Tag Color | Notes                                 |
+| ----------- | ---------------- | ---------------------- | -------------- | -------------- | ------------ | ------------ | ------------------- | --------- | ------------------------------------- |
+| ZL5.236     | **Branch Panel** | HP-CR-5A               | 100 A          | 480Y/277 V     | 3P4W         | HP-CR-6A     | Wall-mounted        | Red       | Schneider Square D                    |
+| ZL5.236     | **Branch Panel** | LP-CR-5A               | 100 A          | 208Y/120 V     | 3P4W         | ELDP-CR-HPH  | Wall-mounted        | Red       | Handwritten circuits 5, 11, 3, 7, 9   |
+| ZL5.236     | **Branch Panel** | LP-CR-5B               | 100 A          | 208Y/120 V     | 3P4W         | ELDP-CR-HPH1 | Wall-mounted        | Red       | —                                     |
+| ZL5.236     | **Branch Panel** | LP-5A                  | 225 A          | 208Y/120 V     | 3P4W         | LDP-PH       | Wall-mounted        | White     | —                                     |
+| ZL5.236     | **Branch Panel** | LP-5A Section 2        | 225 A          | 208Y/120 V     | 3P4W         | LDP-PH       | Wall-mounted        | White     | Continuation of LP-5A                 |
+| ZL5.236     | **Branch Panel** | HP-5A                  | 100 A          | 480Y/277 V     | 3P4W         | HDP-PH       | Wall-mounted        | White     | —                                     |
+| ZL5.236     | **Branch Panel** | LP-5B                  | 100 A          | 208Y/120 V     | 3P4W         | LDP-PH1      | Wall-mounted        | White     | —                                     |
+| ZL5.236     | **Branch Panel** | HP-LS-5A               | 100 A          | 480Y/277 V     | 3P4W         | EHDP-LS      | Wall-mounted        | Red       | —                                     |
+| ZL5.236     | **Branch Panel** | LP-LS-5A               | 50 A           | 208Y/120 V     | 3P4W         | T-LP-LS-5A   | Wall-mounted        | Red       | Fire alarm / emergency circuit inside |
+| ZL5.236     | **Transformer**  | T-LP-LS-5A             | 15 kVA         | 480?208Y/120 V | 3P3W         | HP-LS-5A     | Suspended (ceiling) | Red       | Square D — mounted above rack         |

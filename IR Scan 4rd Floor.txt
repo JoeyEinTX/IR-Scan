@@ -1,0 +1,9 @@
+| Room Number | Equipment Type       | Equipment Name / Label | Amperage / kVA | Voltage       | Phase / Wire | Fed From     | Mounting     | Tag Color | Notes                                   |
+| ----------- | -------------------- | ---------------------- | -------------- | ------------- | ------------ | ------------ | ------------ | --------- | --------------------------------------- |
+| ZL4.331     | Branch Circuit Panel | HP-CR-4A               | 100 A          | 480 Y / 277 V | 3 P 4 W      | HP-CR-5A     | Wall-mounted | White     | Standard labeling; not generator-backed |
+| ZL4.331     | Branch Circuit Panel | LP-4B                  | 100 A          | 208 Y / 120 V | 3 P 4 W      | LDP-PH1      | Wall-mounted | White     | Normal power                            |
+| ZL4.331     | Branch Circuit Panel | LP-CR-4A               | 100 A          | 208 Y / 120 V | 3 P 4 W      | ELDP-CR-HPH  | Wall-mounted | White     | Critical branch                         |
+| ZL4.331     | Branch Circuit Panel | LP-4A                  | 225 A          | 208 Y / 120 V | 3 P 4 W      | LDP-PH       | Wall-mounted | White     | Normal power                            |
+| ZL4.331     | Branch Circuit Panel | LP-4A Section 2        | 225 A          | 208 Y / 120 V | 3 P 4 W      | LDP-PH       | Wall-mounted | White     | Continuation section of LP-4A           |
+| ZL4.331     | Branch Circuit Panel | HP-4A                  | 100 A          | 480 Y / 277 V | 3 P 4 W      | HDP-PH       | Wall-mounted | White     | Lighting / mechanical loads             |
+| ZL4.331     | Branch Circuit Panel | LP-CR-4B               | 100 A          | 208 Y / 120 V | 3 P 4 W      | ELDP-CR-HPH1 | Wall-mounted | White     | Critical branch                         |

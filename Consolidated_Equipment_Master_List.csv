@@ -1,0 +1,156 @@
+Floor,Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,Tag Color,Notes
+Ground,Cyber,Transformer,T-LACC,45 kVA,480–208Y/120 V,3P3W,HP-LACC,Floor-mounted,White,Step-down transformer
+Ground,Cyber,Transformer,T-LACC2,45 kVA,480–208Y/120 V,3P3W,HP-LACC,Suspended,White,Step-down transformer
+Ground,Cyber,Branch Panel,HP-LACC,150 A,480Y/277 V,3P4W,MDA-HB,Wall-mounted,White,Normal branch panel
+Ground,Cyber,Branch Panel,LP-LACC,150 A,208Y/120 V,3P4W,T-LACC,Wall-mounted,White,Normal branch panel
+Ground,Cyber,Disconnect,SF-1,15 A,480Y/277 V,3P3W,HP-LACC,Wall-mounted,White,Supply fan disconnect
+Ground,Cyber,Disconnect,EF-1,15 A,480Y/277 V,3P3W,HP-LACC,Wall-mounted,White,Exhaust fan disconnect
+Ground,ZL0.802,Transformer,T-LP-A,30 kVA,480–208Y/120 V,3P3W,HP-A,Floor-mounted,White,Step-down transformer
+Ground,ZL0.802,Transformer,T-LP-EQ-A,30 kVA,480–208Y/120 V,3P3W,HP-EQ-A,Floor-mounted,Red,Emergency step-down
+Ground,ZL0.802,Branch Panel,HP-A,150 A,480Y/277 V,3P4W,MDA-HB,Wall-mounted,White,Normal branch panel
+Ground,ZL0.802,Branch Panel,HP-EQ-A,150 A,480Y/277 V,3P4W,EMDA-HB,Wall-mounted,Red,Emergency branch panel
+Ground,ZL0.802,Branch Panel,LP-A,100 A,208Y/120 V,3P4W,T-LP-A,Wall-mounted,White,Normal branch panel
+Ground,ZL0.802,Branch Panel,LP-EQ-A,100 A,208Y/120 V,3P4W,T-LP-EQ-A,Wall-mounted,Red,Emergency branch panel
+Ground,ZL0.802,Disconnect,EF-3-17 DISC,15 A,480 V,3P3W,MDA-HB,Wall-mounted,White,Exhaust fan disconnect
+Ground,ZL0.802,Disconnect,EF-3-14 DISC,15 A,480 V,3P3W,MDA-HB,Wall-mounted,White,Exhaust fan disconnect
+Ground,ZL0.802,Disconnect,EF-3-10 DISC,15 A,480 V,3P3W,MDA-HB,Wall-mounted,White,Exhaust fan disconnect
+Ground,ZL0.802,Disconnect,EF-3-5 DISC,15 A,480 V,3P3W,MDA-HB,Wall-mounted,White,Exhaust fan disconnect
+Ground,ZL0.716,Disconnect,ELEV-8,100 A,480Y/277 V,3P3W,EMDA-HB,Wall-mounted,Red,Elevator #8
+Ground,ZL0.716,Disconnect,ELEV-9,100 A,480Y/277 V,3P3W,EMDA-HB,Wall-mounted,Red,Elevator #9
+Ground,ZL0.716,Disconnect,ELEV-10,100 A,480 V,3P3W,PNL MCCA/HB,Wall-mounted,White,Elevator #10
+Ground,ZL0.602,Transformer,T-LDP-H1,225 kVA,480–208Y/120 V,3P3W,HDP-H1,Suspended,White,Step-down feeding LDP-H1
+Ground,ZL0.602,Transformer,T-DP-K,225 kVA,480–208Y/120 V,3P3W,HP-K,Suspended,White,Step-down feeding DP-K
+Ground,ZL0.602,Feeder Panel,HDP-H1,800 A,480Y/277 V,3P4W,MSB-HB,Wall-mounted,White,Distribution
+Ground,ZL0.602,Feeder Panel,HP-K,800 A,480Y/277 V,3P4W,MSB-HB,Wall-mounted,White,Distribution
+Ground,ZL0.602,Feeder Panel,LDP-H1,1000 A,208Y/120 V,3P4W,HDP-PH,Wall-mounted,White,Lighting/power
+Ground,ZL0.602,Feeder Panel,DP-K,800 A,208Y/120 V,3P4W,T-DP-K,Wall-mounted,White,Lighting/power
+Ground,ZL0.602,Branch Panel,HP-GA,150 A,480Y/277 V,3P4W,HDP-H1,Wall-mounted,White,Lighting/power
+Ground,ZL0.602,Branch Panel,LP-CR-GB,250 A,208Y/120 V,3P4W,LP-CR-GB,Wall-mounted,Red,Emergency panel
+Ground,ZL0.602,Branch Panel,LP-GC,100 A,208Y/120 V,3P4W,LDP-H1,Wall-mounted,White,Lighting/power
+Ground,ZL0.602,Branch Panel,LP-GA,225 A,208Y/120 V,3P4W,LDP-H1,Wall-mounted,White,Lighting/power
+Ground,ZL0.602,Branch Panel,LP-GA Sec 2,225 A,208Y/120 V,3P4W,LDP-H1,Wall-mounted,White,Section continuation
+Ground,ZL0.604,Transformer,T-LP-LS-GB,15 kVA,480–208Y/120 V,3P3W,HP-LS-GA,Suspended,Red,Step-down
+Ground,ZL0.604,Transformer,T-LP-CR-G3,75 kVA,480–208Y/120 V,3P3W,EHDP-CR-H,Suspended,Red,Step-down
+Ground,ZL0.604,Transformer,T-ELDP-CR-H,112.5 kVA,480–208Y/120 V,3P3W,EHDP-CR-H,Suspended,Red,Step-down
+Ground,ZL0.604,Transformer,T-LP-CR-GC,45 kVA,480–208Y/120 V,3P4W,T-LP-CR-GC PRI DISC,Suspended,Red,Step-down
+Ground,ZL0.604,Transformer,T-LP-LS-GA,15 kVA,480–208Y/120 V,3P3W,HP-LS-GA,Floor-mounted,Red,Step-down
+Ground,ZL0.604,Transformer,T-LP-CR-GB,45 kVA,480–208Y/120 V,3P4W,EHDP-CR-H,Floor-mounted,Red,Step-down
+Ground,ZL0.604,Feeder Panel,EHDP-LS,225 A,480Y/277 V,3P4W,ATS-LS,Wall-mounted,Red,Emergency distribution
+Ground,ZL0.604,Feeder Panel,EHDP-CR-H,400 A,480Y/277 V,3P4W,EHDP-CR,Wall-mounted,Red,Emergency distribution
+Ground,ZL0.604,Feeder Panel,ELDP-CR-H,400 A,208Y/120 V,3P4W,T-ELDP-CR-H,Wall-mounted,Red,Emergency lighting/power
+Ground,ZL0.604,Branch Panel,HP-CR-GB,200 A,480Y/277 V,3P4W,EHDP-CR-H,Wall-mounted,Red,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-LS-GB,50 A,208Y/120 V,3P4W,T-LP-LS-GB,Wall-mounted,Red,Lighting/signal
+Ground,ZL0.604,Branch Panel,LP-LS-GA,50 A,208Y/120 V,3P4W,T-LP-LS-GA,Wall-mounted,Red,Fire alarm/emergency
+Ground,ZL0.604,Branch Panel,HP-LS-GA,100 A,480Y/277 V,3P4W,EHDP-LS,Wall-mounted,Red,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-CR-G3,250 A,208Y/120 V,3P4W,T-LP-CR-G3,Wall-mounted,Red,Emergency branch
+Ground,ZL0.604,Branch Panel,HP-CR-GA,100 A,480Y/277 V,3P4W,EHDP-CR-H,Wall-mounted,Red,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-CR-GA,200 A,208Y/120 V,3P4W,ELDP-CR-H,Wall-mounted,Red,Emergency branch
+Ground,ZL0.604,Branch Panel,LP-CR-GA Sec 2,200 A,208Y/120 V,3P4W,LP-CR-GA,Wall-mounted,Red,Section continuation
+Ground,ZL0.604,Disconnect,T-LP-CR-GC PRI DISC,150 A,480Y/277 V,3P3W,EHDP-CR-H,Wall-mounted,Red,Transformer primary
+Ground,ZL0.604,Disconnect,T-LP-CR-GC SEC DISC,150 A,480Y/277 V,3P4W,T-LP-CR-GC,Wall-mounted,Red,Transformer secondary
+Ground,ZL0.706,Transformer,T-LP-CR-GD,75 kVA,480–208Y/120 V,3P4W,EHDP-CR-X,Floor-mounted,Red,Step-down
+Ground,ZL0.706,Feeder Panel,EHDP-CR-X,1200 A,480Y/277 V,3P4W,ATS-CRDX,Wall-mounted,Red,Emergency distribution
+Ground,ZL0.706,Branch Panel,LP-CR-2,150 A,208Y/120 V,3P4W,T-LP-CR-2,Wall-mounted,Red,Emergency lighting/power
+Ground,ZL0.706,Branch Panel,LP-CR-GD,250 A,208Y/120 V,3P4W,T-LP-CR-GD,Wall-mounted,Red,Emergency lighting/power
+Ground,ZL0.706,Branch Panel,LP-GD,100 A,208Y/120 V,3P4W,LDP-H1,Wall-mounted,White,Lighting/power
+Ground,ZL0.706,Branch Panel,LP-GB,225 A,208Y/120 V,3P4W,LDP-H1,Wall-mounted,White,Lighting/power
+Ground,ZL0.706,Branch Panel,LP-GB Sec 2,225 A,208Y/120 V,3P4W,LDP-H1,Wall-mounted,White,Section continuation
+Ground,ZL0.706,Disconnect,APC UPS DISC,50 A,208Y/120 V,3P4W,LP-CR-GD,Wall-mounted,Red,UPS disconnect
+Ground,ZL0.706,Disconnect,TRS-1 DISC,50 A,208Y/120 V,3P4W,LP-CR-GD,Wall-mounted,Red,TRS equipment disconnect
+Ground,ZL0.704G,Feeder Panel,EMDB-HB,600 A,480Y/277 V,3P4W,EHDP-EE2,Wall-mounted,Red,Emergency main distribution
+Ground,ZL0.704G,Feeder Panel,EMDB-HB Sec 2,600 A,480Y/277 V,3P4W,EHDP-EE2,Wall-mounted,Red,Section 2
+Ground,ZL0.704G,Feeder Panel,MDB-HB,800 A,480Y/277 V,3P4W,MSB-HB,Wall-mounted,White,Main distribution
+Ground,ZL0.704G,Feeder Panel,MDB-HB Sec 2,800 A,480Y/277 V,3P4W,MSB-HB,Wall-mounted,White,Section 2
+Ground,ZL0.704G,Branch Panel,ELDP-CR-H2,400 A,208Y/120 V,3P4W,T-ELDP-CR-H2,Wall-mounted,Red,Lighting/power
+Ground,ZL0.704G,Branch Panel,HP-B,150 A,480Y/277 V,3P4W,MDB-HB,Wall-mounted,White,Lighting/power
+Ground,ZL0.704G,Branch Panel,LP-B,100 A,208Y/120 V,3P4W,T-LP-B,Wall-mounted,White,Lighting/power
+Ground,ZL0.704G,Branch Panel,HP-EQ-B,150 A,480Y/277 V,3P4W,EMDB-HB,Wall-mounted,Red,Equipment power
+Ground,ZL0.704G,Branch Panel,LP-EQ-B,100 A,208Y/120 V,3P4W,T-LP-EQ-B,Wall-mounted,Red,Equipment power
+Ground,ZL0.704G,Disconnect,SF-1,15 A,480Y/277 V,3P3W,EMDB-HB,Wall-mounted,Red,Supply fan
+Ground,ZL0.704G,Disconnect,SF-2,15 A,480Y/277 V,3P3W,EMDB-HB,Wall-mounted,Red,Supply fan
+Ground,ZL0.704G,Disconnect,SF-3,30 A,480Y/277 V,3P3W,EMDB-HB,Wall-mounted,Red,Supply fan
+Ground,ZL0.704G,Disconnect,SF-4,30 A,480Y/277 V,3P3W,EMDB-HB,Wall-mounted,Red,Supply fan
+Ground,ZL0.704G,Disconnect,SF-5,30 A,480Y/277 V,3P3W,MDB-HB,Wall-mounted,White,Kitchen hood fan
+Ground,ZL0.704G,Disconnect,EF-3-15,15 A,480Y/277 V,3P3W,MDB-HB,Wall-mounted,White,Exhaust fan
+Ground,ZL0.214,Feeder Panel,HDP-RAD,800 A,480Y/277 V,3P4W,MSB-CP,Wall-mounted,White,Distribution
+Ground,ZL0.214,Branch Panel,LDP-RAD,250 A,208Y/120 V,3P4W,T-LDP-RAD,Wall-mounted,White,Lighting/power
+Ground,ZL0.506,Feeder Panel,HDP-RAD,800 A,480Y/277 V,3P4W,MSB-CP,Wall-mounted,White,Main distribution for Radiology
+Ground,ZL0.506,Enclosed Breaker,RF/A (Left),175 A,,,,,, 
+Ground,ZL0.904E,Feeder Panel,E HDP-EE1,800 A,480Y/277 V,3P4W,ATS-EE1,Switchboard,Red,
+Ground,ZL0.904E,Feeder Panel,E HDP-EE2,800 A,480Y/277 V,3P4W,ATS-EE2,Switchboard,Red,
+Ground,ZL0.904E,Feeder Panel,E HDP-CR,600 A,480Y/277 V,3P4W,ATS-CR,Switchboard,Red,
+Ground,ZL0.904E,Main Breaker,EMSB MAIN,1200 A,480Y/277 V,3P4W,Emergency Generator,Switchboard,Red,
+Ground,ZL0.904E,Feeder Breaker,ATS-EE1,800 A,480Y/277 V,3P4W,EMSB,Switchboard,Red,
+Ground,ZL0.904E,Feeder Breaker,FP-2 ATS,800 A,480Y/277 V,3P4W,EMSB,Switchboard,Red,
+Ground,ZL0.904E,Feeder Breaker,FP-1 ATS,800 A,480Y/277 V,3P4W,EMSB,Switchboard,Red,
+Ground,ZL0.904E,Feeder Breaker,ATS-EE2,800 A,480Y/277 V,3P4W,EMSB,Switchboard,Red,
+Ground,ZL0.904E,Feeder Breaker,ATS-CR,800 A,480Y/277 V,3P4W,EMSB,Switchboard,Red,
+Ground,ZL0.904E,Feeder Breaker,ATS-LS,800 A,480Y/277 V,3P4W,EMSB,Switchboard,Red,
+Ground,ZL0.904E,Feeder Breaker,ATS-OR,800 A,480Y/277 V,3P4W,EMSB,Switchboard,Red,
+Ground,ZL0.904E,Feeder Breaker,ATS-CDPX,1600 A,480Y/277 V,3P4W,EMSB,Switchboard,Red,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-EE1,600 A,480Y/277 V,3P4W,MSB-HB / EMSB,Wall-mounted,Red,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-EE2,800 A,480Y/277 V,3P4W,MSB-HB / EMSB,Wall-mounted,Red,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-CR,600 A,480Y/277 V,3P4W,MSB-HB / EMSB,Wall-mounted,Red,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-LS,225 A,480Y/277 V,3P4W,MSB-HB / EMSB,Wall-mounted,Red,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-OR,225 A,480Y/277 V,3P4W,MSB-HB / EMSB,Wall-mounted,Red,
+Ground,ZL0.904E,Automatic Transfer Switch,ATS-CDPX,1200 A,480Y/277 V,3P4W,MSB-HB / EMSB,Wall-mounted,Red,
+Ground,ZL0.904E1,Main Breaker,MSB-HB MAIN,4000 A,480Y/277 V,3P4W,Utility XFMR HB,Switchboard,White,
+Ground,ZL0.904E1,Feeder Breaker,MDB-HB,800 A,480Y/277 V,3P4W,MSB-HB,Switchboard,White,
+Ground,ZL0.904E1,Feeder Breaker,HDP-H1,800 A,480Y/277 V,3P4W,MSB-HB,Switchboard,White,
+Ground,ZL0.904E1,Feeder Breaker,ATS-EE1,800 A,480Y/277 V,3P4W,MSB-HB,Switchboard,White,
+Ground,ZL0.904E1,Feeder Breaker,HP-K,800 A,480Y/277 V,3P4W,MSB-HB,Switchboard,White,
+Ground,ZL0.904E1,Feeder Breaker,HP-CP-B,800 A,480Y/277 V,3P4W,MSB-HB,Switchboard,White,
+Ground,ZL0.904E1,Feeder Breaker,MD-PH,800 A,480Y/277 V,3P4W,MSB-HB,Switchboard,White,
+Ground,ZL0.904E1,Feeder Breaker,MDA-HB,800 A,480Y/277 V,3P4W,MSB-HB,Switchboard,White,
+Ground,ZL0.904E1,Feeder Breaker,HDP-PH,800 A,480Y/277 V,3P4W,MSB-HB,Switchboard,White,
+Ground,ZL0.904E1,Feeder Breaker,ATS-CR,800 A,480Y/277 V,3P4W,MSB-HB,Switchboard,White,
+Ground,ZL0.904E1,Feeder Breaker,ATS-OR,800 A,480Y/277 V,3P4W,MSB-HB,Switchboard,White,
+Ground,ZL0.904E1,Feeder Breaker,ATS-CDPX,800 A,480Y/277 V,3P4W,MSB-HB,Switchboard,White,
+Ground,ZL0.904E1,Transformer,T-GENSET1,30 kVA,480→208Y/120 V,3P4W,T-GENSET1 PRI DISC,Wall-mounted,Red,
+Ground,ZL0.904E1,Transformer,T-GENSET2,30 kVA,480→208Y/120 V,3P4W,T-GENSET2 PRI DISC,Wall-mounted,Red,
+Ground,ZL0.904E1,Disconnect,T-GENSET1 PRI DISC,60 A,480Y/277 V,3P3W,HP-CR-CP-A,Wall-mounted,Red,
+Ground,ZL0.904E1,Disconnect,T-GENSET1 SEC DISC,100 A,480Y/277 V,3P4W,T-GENSET1,Wall-mounted,Red,
+Ground,ZL0.904E1,Disconnect,T-GENSET2 PRI DISC,60 A,480Y/277 V,3P3W,HP-CR-CP-A,Wall-mounted,Red,
+Ground,ZL0.904E1,Disconnect,T-GENSET2 SEC DISC,100 A,480Y/277 V,3P4W,T-GENSET2,Wall-mounted,Red,
+2nd Floor,ZL2.106,Transformer,T-LP-EQ-2B,30 kVA,480→208Y/120 V,3P3W,HP-EQ-2B,Suspended,Red,
+2nd Floor,ZL2.106,Panel,LP-EQ-2B,100A,208Y/120 V,3P4W,T-LP-EQ-2B,Wall,Red,Branch Panel
+2nd Floor,ZL2.106,Panel,HP-EQ-2B,150A,480Y/277 V,3P4W,EMDA-HB,Wall,Red,Feeder Panel
+2nd Floor,ZL2.406,Panel,LP-LS-2A,100A,208Y/120 V,3P4W,LDP-H1,Wall,White,Branch Panel
+2nd Floor,ZL2.406,Panel,HP-LS-2A,100A,480Y/277 V,3P4W,HDP-H1,Wall,White,Feeder Panel
+2nd Floor,ZL2.406,Transformer,T-LP-LS-2A,15 kVA,480→208Y/120 V,3P3W,HP-LS-2A,Suspended,Red,
+2nd Floor,ZL2.410,Panel,LP-CR-2BB,100A,208Y/120 V,3P4W,ELDP-CR-H1,Wall,Red,Branch Panel
+2nd Floor,ZL2.410,Panel,LP-2BB,100A,208Y/120 V,3P4W,LDP-H2,Wall,White,Branch Panel
+2nd Floor,ZL2.818A,Panel,LP-EQ-2A,100A,208Y/120 V,3P4W,T-LP-EQ-2A,Wall,Red,Branch Panel
+2nd Floor,ZL2.818A,Panel,HP-EQ-2A,150A,480Y/277 V,3P4W,EMDA-HB,Wall,Red,Feeder Panel
+2nd Floor,ZL2.818A,Panel,LP-2A,100A,208Y/120 V,3P4W,LDP-H1,Wall,White,Branch Panel
+2nd Floor,ZL2.818A,Panel,HP-2A,100A,480Y/277 V,3P4W,HDP-H1,Wall,White,Feeder Panel
+2nd Floor,ZL2.818A,Panel,HP-CR-2A,100A,480Y/277 V,3P4W,EHDP-CR-H,Wall,Red,Feeder Panel
+2nd Floor,ZL2.818A,Panel,LP-CR-2A,200A,208Y/120 V,3P4W,ELDP-CR-H,Wall,Red,Branch Panel
+2nd Floor,ZL2.818A,Panel,LP-CR-2A SECTION 2,200A,208Y/120 V,3P4W,LP-CR-2A,Wall,Red,Branch Panel
+2nd Floor,ZL2.818A,Feeder Panel,EHDP-OR1,400A,480Y/277 V,3P4W,EHDP-CR-X,Wall,Red,
+2nd Floor,ZL2.818A,Panel,ELDP-OR,500A,480Y/277 V,3P4W,T-ELDP-OR,Wall,Red,Feeder Panel
+2nd Floor,ZL2.818A,ECB,T-ELDP-OR ECB,225A,480Y/277 V,3P4W,ATS-OR,Wall,Red,Disconnect/Breaker
+2nd Floor,ZL2.818A,Transformer,T-XFMR X-RAY,75 kVA,480→208Y/120 V,3P3W,—,Floor,Red,
+2nd Floor,ZL2.818A,Transformer,T-ELDP-OR,150 kVA,480→208Y/120 V,3P3W,ATS-OR,Floor,Red,
+2nd Floor,ZL2.818A,Transformer,T-LP-EQ-2A,30 kVA,480→208Y/120 V,3P3W,HP-EQ-2A,Floor,Red,
+2nd Floor,OR-1,LIM Panel,OR1A,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-1,LIM Panel,OR1B,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-1,LIM Panel,OR1C,60A,480Y/277 V,2P3W,EHDP-OR1,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-2,LIM Panel,OR2A,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-2,LIM Panel,OR2B,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-2,LIM Panel,OR2C,60A,480Y/277 V,2P3W,EHDP-OR1,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-3,LIM Panel,OR1A,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-3,LIM Panel,OR1B,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-3,LIM Panel,OR1C,60A,480Y/277 V,2P3W,EHDP-OR1,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-4,LIM Panel,OR4A,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-4,LIM Panel,OR4B,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-4,LIM Panel,OR4C,60A,480Y/277 V,2P3W,EHDP-OR1,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-5,LIM Panel,OR5A,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-5,LIM Panel,OR5B,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-5,LIM Panel,OR5C,60A,480Y/277 V,2P3W,EHDP-OR1,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-6,LIM Panel,OR6A,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-6,LIM Panel,OR6B,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-6,LIM Panel,OR6C,60A,480Y/277 V,2P3W,EHDP-OR1,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-7,LIM Panel,OR7A,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-7,LIM Panel,OR7B,60A,208/120 V,2P3W,ELDP-OR,Wall,Red,Identical for OR 1–10
+2nd Floor,OR-7,L

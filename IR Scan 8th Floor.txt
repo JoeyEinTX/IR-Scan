@@ -1,0 +1,11 @@
+| Room Number | Equipment Type  | Equipment Name / Label | Amperage / kVA | Voltage        | Phase / Wire | Fed From     | Mounting      | Tag Color | Notes                                 |
+| ----------- | --------------- | ---------------------- | -------------- | -------------- | ------------ | ------------ | ------------- | --------- | ------------------------------------- |
+| ZL8.224     | **Panel**       | HP-CR-8A               | 100 A          | 480Y/277 V     | 3P4W         | E HDP-CR-HPH | Wall-mounted  | Red       | Emergency branch circuit panel        |
+| ZL8.224     | **Panel**       | LP-CR-8A               | 100 A          | 208Y/120 V     | 3P4W         | ELDP-CR-HPH  | Wall-mounted  | Red       | Emergency lighting/power branch panel |
+| ZL8.224     | **Panel**       | LP-CR-8B               | 100 A          | 208Y/120 V     | 3P4W         | ELDP-CR-HPH1 | Wall-mounted  | Red       | Emergency lighting/power branch panel |
+| ZL8.224     | **Panel**       | HP-LS-8A               | 100 A          | 480Y/277 V     | 3P4W         | HP-LS-5A     | Wall-mounted  | Red       | Life safety branch circuit panel      |
+| ZL8.224     | **Panel**       | LP-LS-8A               | 50 A           | 208Y/120 V     | 3P4W         | T-LP-LS-8A   | Wall-mounted  | Red       | Fire alarm / emergency branch panel   |
+| ZL8.224     | **Transformer** | T-LP-LS-8A             | 15 kVA         | 480?208Y/120 V | 3P3W         | HP-LS-8A     | **Suspended** | Red       | Step-down transformer                 |
+| ZL8.224     | **Panel**       | HP-8A                  | 100 A          | 480Y/277 V     | 3P4W         | HDP-PH       | Wall-mounted  | White     | Normal power branch circuit panel     |
+| ZL8.224     | **Panel**       | LP-8A                  | 225 A          | 208Y/120 V     | 3P4W         | LDP-PH       | Wall-mounted  | White     | Normal lighting/power branch panel    |
+| ZL8.224     | **Panel**       | LP-8A Sec              |                |                |              |              |               |           |                                       |

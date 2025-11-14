@@ -1,0 +1,79 @@
+⚡ Ground Floor — Complete Electrical Equipment Master List
+Room Number	Equipment Type	Equipment Name / Label	Amperage / kVA	Voltage	Phase / Wire	Fed From	Mounting	Tag Color	Notes
+Cyber	Transformer	T-LACC	45 kVA	480–208Y/120 V	3P3W	HP-LACC	Floor-mounted	White	Step-down transformer
+Cyber	Transformer	T-LACC2	45 kVA	480–208Y/120 V	3P3W	HP-LACC	Suspended	White	Step-down transformer
+Cyber	Branch Panel	HP-LACC	150 A	480Y/277 V	3P4W	MDA-HB	Wall-mounted	White	Normal branch panel
+Cyber	Branch Panel	LP-LACC	150 A	208Y/120 V	3P4W	T-LACC	Wall-mounted	White	Normal branch panel
+Cyber	Disconnect	SF-1	15 A	480Y/277 V	3P3W	HP-LACC	Wall-mounted	White	Supply fan disconnect
+Cyber	Disconnect	EF-1	15 A	480Y/277 V	3P3W	HP-LACC	Wall-mounted	White	Exhaust fan disconnect
+ZL0.802 — Mechanical Room G48	Transformer	T-LP-A	30 kVA	480–208Y/120 V	3P3W	HP-A	Floor-mounted	White	Step-down transformer
+ZL0.802	Transformer	T-LP-EQ-A	30 kVA	480–208Y/120 V	3P3W	HP-EQ-A	Floor-mounted	Red	Emergency step-down
+ZL0.802	Branch Panel	HP-A	150 A	480Y/277 V	3P4W	MDA-HB	Wall-mounted	White	Normal branch panel
+ZL0.802	Branch Panel	HP-EQ-A	150 A	480Y/277 V	3P4W	EMDA-HB	Wall-mounted	Red	Emergency branch panel
+ZL0.802	Branch Panel	LP-A	100 A	208Y/120 V	3P4W	T-LP-A	Wall-mounted	White	Normal branch panel
+ZL0.802	Branch Panel	LP-EQ-A	100 A	208Y/120 V	3P4W	T-LP-EQ-A	Wall-mounted	Red	Emergency branch panel
+ZL0.802	Disconnect	EF-3-17 DISC	15 A	480 V	3P3W	MDA-HB	Wall-mounted	White	Exhaust fan disconnect
+ZL0.802	Disconnect	EF-3-14 DISC	15 A	480 V	3P3W	MDA-HB	Wall-mounted	White	Exhaust fan disconnect
+ZL0.802	Disconnect	EF-3-10 DISC	15 A	480 V	3P3W	MDA-HB	Wall-mounted	White	Exhaust fan disconnect
+ZL0.802	Disconnect	EF-3-5 DISC	15 A	480 V	3P3W	MDA-HB	Wall-mounted	White	Exhaust fan disconnect
+ZL0.716 — Elevator Room #3	Disconnect	ELEV-8	100 A	480Y/277 V	3P3W	EMDA-HB	Wall-mounted	Red	Elevator #8
+ZL0.716	Disconnect	ELEV-9	100 A	480Y/277 V	3P3W	EMDA-HB	Wall-mounted	Red	Elevator #9
+ZL0.716	Disconnect	ELEV-10	100 A	480 V	3P3W	PNL MCCA/HB	Wall-mounted	White	Elevator #10
+ZL0.602 — Electrical Room G2	Transformer	T-LDP-H1	225 kVA	480–208Y/120 V	3P3W	HDP-H1	Suspended	White	Step-down feeding LDP-H1
+ZL0.602	Transformer	T-DP-K	225 kVA	480–208Y/120 V	3P3W	HP-K	Suspended	White	Step-down feeding DP-K
+ZL0.602	Feeder Panel	HDP-H1	800 A	480Y/277 V	3P4W	MSB-HB	Wall-mounted	White	Distribution
+ZL0.602	Feeder Panel	HP-K	800 A	480Y/277 V	3P4W	MSB-HB	Wall-mounted	White	Distribution
+ZL0.602	Feeder Panel	LDP-H1	1000 A	208Y/120 V	3P4W	HDP-PH	Wall-mounted	White	Lighting/power
+ZL0.602	Feeder Panel	DP-K	800 A	208Y/120 V	3P4W	T-DP-K	Wall-mounted	White	Lighting/power
+ZL0.602	Branch Panel	HP-GA	150 A	480Y/277 V	3P4W	HDP-H1	Wall-mounted	White	Lighting/power
+ZL0.602	Branch Panel	LP-CR-GB	250 A	208Y/120 V	3P4W	LP-CR-GB	Wall-mounted	Red	Emergency panel
+ZL0.602	Branch Panel	LP-GC	100 A	208Y/120 V	3P4W	LDP-H1	Wall-mounted	White	Lighting/power
+ZL0.602	Branch Panel	LP-GA	225 A	208Y/120 V	3P4W	LDP-H1	Wall-mounted	White	Lighting/power
+ZL0.602	Branch Panel	LP-GA Sec 2	225 A	208Y/120 V	3P4W	LDP-H1	Wall-mounted	White	Section continuation
+ZL0.604 — Electrical Room G3	Transformer	T-LP-LS-GB	15 kVA	480–208Y/120 V	3P3W	HP-LS-GA	Suspended	Red	Step-down
+ZL0.604	Transformer	T-LP-CR-G3	75 kVA	480–208Y/120 V	3P3W	EHDP-CR-H	Suspended	Red	Step-down
+ZL0.604	Transformer	T-ELDP-CR-H	112.5 kVA	480–208Y/120 V	3P3W	EHDP-CR-H	Suspended	Red	Step-down
+ZL0.604	Transformer	T-LP-CR-GC	45 kVA	480–208Y/120 V	3P4W	T-LP-CR-GC PRI DISC	Suspended	Red	Step-down
+ZL0.604	Transformer	T-LP-LS-GA	15 kVA	480–208Y/120 V	3P3W	HP-LS-GA	Floor-mounted	Red	Step-down
+ZL0.604	Transformer	T-LP-CR-GB	45 kVA	480–208Y/120 V	3P4W	EHDP-CR-H	Floor-mounted	Red	Step-down
+ZL0.604	Feeder Panel	EHDP-LS	225 A	480Y/277 V	3P4W	ATS-LS	Wall-mounted	Red	Emergency distribution
+ZL0.604	Feeder Panel	EHDP-CR-H	400 A	480Y/277 V	3P4W	EHDP-CR	Wall-mounted	Red	Emergency distribution
+ZL0.604	Feeder Panel	ELDP-CR-H	400 A	208Y/120 V	3P4W	T-ELDP-CR-H	Wall-mounted	Red	Emergency lighting/power
+ZL0.604	Branch Panel	HP-CR-GB	200 A	480Y/277 V	3P4W	EHDP-CR-H	Wall-mounted	Red	Emergency branch
+ZL0.604	Branch Panel	LP-LS-GB	50 A	208Y/120 V	3P4W	T-LP-LS-GB	Wall-mounted	Red	Lighting/signal
+ZL0.604	Branch Panel	LP-LS-GA	50 A	208Y/120 V	3P4W	T-LP-LS-GA	Wall-mounted	Red	Fire alarm/emergency
+ZL0.604	Branch Panel	HP-LS-GA	100 A	480Y/277 V	3P4W	EHDP-LS	Wall-mounted	Red	Emergency branch
+ZL0.604	Branch Panel	LP-CR-G3	250 A	208Y/120 V	3P4W	T-LP-CR-G3	Wall-mounted	Red	Emergency branch
+ZL0.604	Branch Panel	HP-CR-GA	100 A	480Y/277 V	3P4W	EHDP-CR-H	Wall-mounted	Red	Emergency branch
+ZL0.604	Branch Panel	LP-CR-GA	200 A	208Y/120 V	3P4W	ELDP-CR-H	Wall-mounted	Red	Emergency branch
+ZL0.604	Branch Panel	LP-CR-GA Sec 2	200 A	208Y/120 V	3P4W	LP-CR-GA	Wall-mounted	Red	Section continuation
+ZL0.604	Disconnect	T-LP-CR-GC PRI DISC	150 A	480Y/277 V	3P3W	EHDP-CR-H	Wall-mounted	Red	Transformer primary
+ZL0.604	Disconnect	T-LP-CR-GC SEC DISC	150 A	480Y/277 V	3P4W	T-LP-CR-GC	Wall-mounted	Red	Transformer secondary
+ZL0.706 — Electrical Room	Transformer	T-LP-CR-GD	75 kVA	480–208Y/120 V	3P4W	EHDP-CR-X	Floor-mounted	Red	Step-down
+ZL0.706	Feeder Panel	EHDP-CR-X	1200 A	480Y/277 V	3P4W	ATS-CRDX	Wall-mounted	Red	Emergency distribution
+ZL0.706	Branch Panel	LP-CR-2	150 A	208Y/120 V	3P4W	T-LP-CR-2	Wall-mounted	Red	Emergency lighting/power
+ZL0.706	Branch Panel	LP-CR-GD	250 A	208Y/120 V	3P4W	T-LP-CR-GD	Wall-mounted	Red	Emergency lighting/power
+ZL0.706	Branch Panel	LP-GD	100 A	208Y/120 V	3P4W	LDP-H1	Wall-mounted	White	Lighting/power
+ZL0.706	Branch Panel	LP-GB	225 A	208Y/120 V	3P4W	LDP-H1	Wall-mounted	White	Lighting/power
+ZL0.706	Branch Panel	LP-GB Sec 2	225 A	208Y/120 V	3P4W	LDP-H1	Wall-mounted	White	Section continuation
+ZL0.706	Disconnect	APC UPS DISC	50 A	208Y/120 V	3P4W	LP-CR-GD	Wall-mounted	Red	UPS disconnect
+ZL0.706	Disconnect	TRS-1 DISC	50 A	208Y/120 V	3P4W	LP-CR-GD	Wall-mounted	Red	TRS equipment disconnect
+ZL0.704G — Mechanical Room G38	Feeder Panel	EMDB-HB	600 A	480Y/277 V	3P4W	EHDP-EE2	Wall-mounted	Red	Emergency main distribution
+ZL0.704G	Feeder Panel	EMDB-HB Sec 2	600 A	480Y/277 V	3P4W	EHDP-EE2	Wall-mounted	Red	Section 2
+ZL0.704G	Feeder Panel	MDB-HB	800 A	480Y/277 V	3P4W	MSB-HB	Wall-mounted	White	Main distribution
+ZL0.704G	Feeder Panel	MDB-HB Sec 2	800 A	480Y/277 V	3P4W	MSB-HB	Wall-mounted	White	Section 2
+ZL0.704G	Branch Panel	ELDP-CR-H2	400 A	208Y/120 V	3P4W	T-ELDP-CR-H2	Wall-mounted	Red	Lighting/power
+ZL0.704G	Branch Panel	HP-B	150 A	480Y/277 V	3P4W	MDB-HB	Wall-mounted	White	Lighting/power
+ZL0.704G	Branch Panel	LP-B	100 A	208Y/120 V	3P4W	T-LP-B	Wall-mounted	White	Lighting/power
+ZL0.704G	Branch Panel	HP-EQ-B	150 A	480Y/277 V	3P4W	EMDB-HB	Wall-mounted	Red	Equipment power
+ZL0.704G	Branch Panel	LP-EQ-B	100 A	208Y/120 V	3P4W	T-LP-EQ-B	Wall-mounted	Red	Equipment power
+ZL0.704G	Disconnect	SF-1	15 A	480Y/277 V	3P3W	EMDB-HB	Wall-mounted	Red	Supply fan
+ZL0.704G	Disconnect	SF-2	15 A	480Y/277 V	3P3W	EMDB-HB	Wall-mounted	Red	Supply fan
+ZL0.704G	Disconnect	SF-3	30 A	480Y/277 V	3P3W	EMDB-HB	Wall-mounted	Red	Supply fan
+ZL0.704G	Disconnect	SF-4	30 A	480Y/277 V	3P3W	EMDB-HB	Wall-mounted	Red	Supply fan
+ZL0.704G	Disconnect	SF-5	30 A	480Y/277 V	3P3W	MDB-HB	Wall-mounted	White	Kitchen hood fan
+ZL0.704G	Disconnect	EF-3-15	15 A	480Y/277 V	3P3W	MDB-HB	Wall-mounted	White	Exhaust fan
+ZL0.214 — Electrical Room	Feeder Panel	HDP-RAD	800 A	480Y/277 V	3P4W	MSB-CP	Wall-mounted	White	Distribution
+ZL0.214	Branch Panel	LDP-RAD	250 A	208Y/120 V	3P4W	T-LDP-RAD	Wall-mounted	White	Lighting/power
+ZL0.506 — Radiology	Feeder Panel	HDP-RAD	800 A	480Y/277 V	3P4W	MSB-CP	Wall-mounted	White	Main distribution for Radiology
+ZL0.506	Enclosed Breaker	RF/A (Left)	175 A				

@@ -1,0 +1,54 @@
+Floor,Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
+2nd Floor,ZL2.106,Transformer,T-LP-EQ-2B,30 kVA,480→208Y/120V,3P3W,HP-EQ-2B,Suspended,Emergency,
+2nd Floor,ZL2.106,Branch Panel,LP-EQ-2B,100A,208Y/120V,3P4W,T-LP-EQ-2B,Wall-mounted,Emergency,
+2nd Floor,ZL2.106,Feeder Panel,HP-EQ-2B,150A,480Y/277V,3P4W,EMDA-HB,Wall-mounted,Emergency,
+2nd Floor,ZL2.406,Branch Panel,LP-LS-2A,100A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,
+2nd Floor,ZL2.406,Feeder Panel,HP-LS-2A,100A,480Y/277V,3P4W,HDP-H1,Wall-mounted,Normal,
+2nd Floor,ZL2.406,Transformer,T-LP-LS-2A,15 kVA,480→208Y/120V,3P3W,HP-LS-2A,Suspended,Emergency,
+2nd Floor,ZL2.410,Branch Panel,LP-CR-2BB,100A,208Y/120V,3P4W,ELDP-CR-H1,Wall-mounted,Emergency,
+2nd Floor,ZL2.410,Branch Panel,LP-2BB,100A,208Y/120V,3P4W,LDP-H2,Wall-mounted,Normal,
+2nd Floor,ZL2.818A,Branch Panel,LP-EQ-2A,100A,208Y/120V,3P4W,T-LP-EQ-2A,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Feeder Panel,HP-EQ-2A,150A,480Y/277V,3P4W,EMDA-HB,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Branch Panel,LP-2A,100A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,
+2nd Floor,ZL2.818A,Feeder Panel,HP-2A,100A,480Y/277V,3P4W,HDP-H1,Wall-mounted,Normal,
+2nd Floor,ZL2.818A,Feeder Panel,HP-CR-2A,100A,480Y/277V,3P4W,EHDP-CR-H,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Branch Panel,LP-CR-2A,200A,208Y/120V,3P4W,ELDP-CR-H,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Branch Panel,LP-CR-2A SECTION 2,200A,208Y/120V,3P4W,LP-CR-2A,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Feeder Panel,EHDP-OR1,400A,480Y/277V,3P4W,EHDP-CR-X,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,Feeder Panel,ELDP-OR,500A,480Y/277V,3P4W,T-ELDP-OR,Wall-mounted,Emergency,
+2nd Floor,ZL2.818A,ECB,T-ELDP-OR ECB,225A,480Y/277V,3P4W,ATS-OR,Wall-mounted,Emergency,Disconnect/Breaker
+2nd Floor,ZL2.818A,Transformer,T-XFMR X-RAY,75 kVA,480→208Y/120V,3P3W,,Floor-mounted,Emergency,
+2nd Floor,ZL2.818A,Transformer,T-ELDP-OR,150 kVA,480→208Y/120V,3P3W,ATS-OR,Floor-mounted,Emergency,
+2nd Floor,ZL2.818A,Transformer,T-LP-EQ-2A,30 kVA,480→208Y/120V,3P3W,HP-EQ-2A,Floor-mounted,Emergency,
+2nd Floor,OR-1,LIM Panel,OR1A,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-1,LIM Panel,OR1B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-1,LIM Panel,OR1C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-2,LIM Panel,OR2A,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-2,LIM Panel,OR2B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-2,LIM Panel,OR2C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-3,LIM Panel,OR3A,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-3,LIM Panel,OR3B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-3,LIM Panel,OR3C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-4,LIM Panel,OR4A,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-4,LIM Panel,OR4B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-4,LIM Panel,OR4C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-5,LIM Panel,OR5A,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-5,LIM Panel,OR5B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-5,LIM Panel,OR5C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-6,LIM Panel,OR6A,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-6,LIM Panel,OR6B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-6,LIM Panel,OR6C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-7,LIM Panel,OR7A,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-7,LIM Panel,OR7B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-7,LIM Panel,OR7C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-8,LIM Panel,OR8A,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-8,LIM Panel,OR8B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-8,LIM Panel,OR8C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-9,LIM Panel,OR9A,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-9,LIM Panel,OR9B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-9,LIM Panel,OR9C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-10,LIM Panel,OR10A,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-10,LIM Panel,OR10B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,OR-10,LIM Panel,OR10C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
+2nd Floor,PROCEDURE 1,Branch Panel,PROCEDURE 1,100A,208Y/120V,3P4W,ELDP-OR,Wall-mounted,Emergency,
+2nd Floor,PROCEDURE 2,Branch Panel,PROCEDURE 2,100A,208Y/120V,3P4W,ELDP-OR,Wall-mounted,Emergency,

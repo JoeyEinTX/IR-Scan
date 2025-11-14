@@ -1,0 +1,9 @@
+Floor,Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
+6th Floor,ZL6.236,Branch Panel,HP-CR-6A,100A,480Y/277V,3P4W,EHDP-CR-HPH,Wall-mounted,Emergency,
+6th Floor,ZL6.236,Branch Panel,LP-CR-6C,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Emergency,
+6th Floor,ZL6.236,Branch Panel,LP-CR-6A,100A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,
+6th Floor,ZL6.236,Branch Panel,LP-6A,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,
+6th Floor,ZL6.236,Branch Panel,LP-6A SECTION 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,
+6th Floor,ZL6.236,Branch Panel,HP-6A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,
+6th Floor,ZL6.236,Branch Panel,LP-6B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,
+6th Floor,ZL6.236,Branch Panel,LP-CR-6B,50A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,

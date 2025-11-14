@@ -1,0 +1,10 @@
+| Room Number | Equipment Type       | Equipment Name / Label | Amperage / kVA | Voltage    | Phase / Wire | Fed From     | Mounting     | Tag Color | Notes |
+| ----------- | -------------------- | ---------------------- | -------------- | ---------- | ------------ | ------------ | ------------ | --------- | ----- |
+| ZL6.236     | Branch Circuit Panel | HP-CR-6A               | 100 A          | 480Y/277 V | 3P4W         | EHDP-CR-HPH  | Wall-mounted | Red       |       |
+| ZL6.236     | Branch Circuit Panel | LP-CR-6C               | 100 A          | 208Y/120 V | 3P4W         | ELDP-CR-HPH1 | Wall-mounted | Red       |       |
+| ZL6.236     | Branch Circuit Panel | LP-CR-6A               | 100 A          | 208Y/120 V | 3P4W         | ELDP-CR-HPH  | Wall-mounted | Red       |       |
+| ZL6.236     | Branch Circuit Panel | LP-6A                  | 225 A          | 208Y/120 V | 3P4W         | LDP-PH       | Wall-mounted | White     |       |
+| ZL6.236     | Branch Circuit Panel | LP-6A SECTION 2        | 225 A          | 208Y/120 V | 3P4W         | LDP-PH       | Wall-mounted | White     |       |
+| ZL6.236     | Branch Circuit Panel | HP-6A                  | 100 A          | 480Y/277 V | 3P4W         | HDP-PH       | Wall-mounted | White     |       |
+| ZL6.236     | Branch Circuit Panel | LP-6B                  | 100 A          | 208Y/120 V | 3P4W         | LDP-PH1      | Wall-mounted | White     |       |
+| ZL6.236     | Branch Circuit Panel | LP-CR-6B               | 50 A           | 208Y/120 V | 3P4W         | ELDP-CR-HPH  | Wall-mounted | Red       |       |

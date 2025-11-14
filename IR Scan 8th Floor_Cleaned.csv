@@ -1,0 +1,11 @@
+Floor,Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
+8th Floor,ZL8.224,Branch Panel,HP-CR-8A,100A,480Y/277V,3P4W,E HDP-CR-HPH,Wall-mounted,Emergency,Emergency branch circuit panel
+8th Floor,ZL8.224,Branch Panel,LP-CR-8A,100A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,Emergency lighting/power branch panel
+8th Floor,ZL8.224,Branch Panel,LP-CR-8B,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Emergency,Emergency lighting/power branch panel
+8th Floor,ZL8.224,Branch Panel,HP-LS-8A,100A,480Y/277V,3P4W,HP-LS-5A,Wall-mounted,Emergency,Life safety branch circuit panel
+8th Floor,ZL8.224,Branch Panel,LP-LS-8A,50A,208Y/120V,3P4W,T-LP-LS-8A,Wall-mounted,Emergency,Fire alarm/emergency branch panel
+8th Floor,ZL8.224,Transformer,T-LP-LS-8A,15 kVA,480→208Y/120V,3P3W,HP-LS-8A,Suspended,Emergency,Step-down transformer
+8th Floor,ZL8.224,Branch Panel,HP-8A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,Normal power branch circuit panel
+8th Floor,ZL8.224,Branch Panel,LP-8A,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Normal lighting/power branch panel
+8th Floor,ZL8.224,Branch Panel,LP-8A Section 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Continuation section of LP-8A
+8th Floor,ZL8.224,Branch Panel,LP-8B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,Normal lighting/power branch panel

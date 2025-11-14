@@ -1,0 +1,38 @@
+| Room Number | Equipment Type            | Equipment Name / Label | Amperage / kVA | Voltage        | Phase / Wire | Fed From            | Mounting     | Tag Color |
+| ----------- | ------------------------- | ---------------------- | -------------- | -------------- | ------------ | ------------------- | ------------ | --------- |
+| ZL0.904E    | Feeder Panel              | E HDP-EE1              | 800 A          | 480Y/277 V     | 3P4W         | ATS-EE1             | Switchboard  | Red       |
+| ZL0.904E    | Feeder Panel              | E HDP-EE2              | 800 A          | 480Y/277 V     | 3P4W         | ATS-EE2             | Switchboard  | Red       |
+| ZL0.904E    | Feeder Panel              | E HDP-CR               | 600 A          | 480Y/277 V     | 3P4W         | ATS-CR              | Switchboard  | Red       |
+| ZL0.904E    | Main Breaker              | EMSB MAIN              | 1200 A         | 480Y/277 V     | 3P4W         | Emergency Generator | Switchboard  | Red       |
+| ZL0.904E    | Feeder Breaker            | ATS-EE1                | 800 A          | 480Y/277 V     | 3P4W         | EMSB                | Switchboard  | Red       |
+| ZL0.904E    | Feeder Breaker            | FP-2 ATS               | 800 A          | 480Y/277 V     | 3P4W         | EMSB                | Switchboard  | Red       |
+| ZL0.904E    | Feeder Breaker            | FP-1 ATS               | 800 A          | 480Y/277 V     | 3P4W         | EMSB                | Switchboard  | Red       |
+| ZL0.904E    | Feeder Breaker            | ATS-EE2                | 800 A          | 480Y/277 V     | 3P4W         | EMSB                | Switchboard  | Red       |
+| ZL0.904E    | Feeder Breaker            | ATS-CR                 | 800 A          | 480Y/277 V     | 3P4W         | EMSB                | Switchboard  | Red       |
+| ZL0.904E    | Feeder Breaker            | ATS-LS                 | 800 A          | 480Y/277 V     | 3P4W         | EMSB                | Switchboard  | Red       |
+| ZL0.904E    | Feeder Breaker            | ATS-OR                 | 800 A          | 480Y/277 V     | 3P4W         | EMSB                | Switchboard  | Red       |
+| ZL0.904E    | Feeder Breaker            | ATS-CDPX               | 1600 A         | 480Y/277 V     | 3P4W         | EMSB                | Switchboard  | Red       |
+| ZL0.904E    | Automatic Transfer Switch | ATS-EE1                | 600 A          | 480Y/277 V     | 3P4W         | MSB-HB / EMSB       | Wall-mounted | Red       |
+| ZL0.904E    | Automatic Transfer Switch | ATS-EE2                | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB / EMSB       | Wall-mounted | Red       |
+| ZL0.904E    | Automatic Transfer Switch | ATS-CR                 | 600 A          | 480Y/277 V     | 3P4W         | MSB-HB / EMSB       | Wall-mounted | Red       |
+| ZL0.904E    | Automatic Transfer Switch | ATS-LS                 | 225 A          | 480Y/277 V     | 3P4W         | MSB-HB / EMSB       | Wall-mounted | Red       |
+| ZL0.904E    | Automatic Transfer Switch | ATS-OR                 | 225 A          | 480Y/277 V     | 3P4W         | MSB-HB / EMSB       | Wall-mounted | Red       |
+| ZL0.904E    | Automatic Transfer Switch | ATS-CDPX               | 1200 A         | 480Y/277 V     | 3P4W         | MSB-HB / EMSB       | Wall-mounted | Red       |
+| ZL0.904E1   | Main Breaker              | MSB-HB MAIN            | 4000 A         | 480Y/277 V     | 3P4W         | Utility XFMR HB     | Switchboard  | White     |
+| ZL0.904E1   | Feeder Breaker            | MDB-HB                 | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB              | Switchboard  | White     |
+| ZL0.904E1   | Feeder Breaker            | HDP-H1                 | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB              | Switchboard  | White     |
+| ZL0.904E1   | Feeder Breaker            | ATS-EE1                | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB              | Switchboard  | White     |
+| ZL0.904E1   | Feeder Breaker            | HP-K                   | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB              | Switchboard  | White     |
+| ZL0.904E1   | Feeder Breaker            | HP-CP-B                | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB              | Switchboard  | White     |
+| ZL0.904E1   | Feeder Breaker            | MD-PH                  | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB              | Switchboard  | White     |
+| ZL0.904E1   | Feeder Breaker            | MDA-HB                 | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB              | Switchboard  | White     |
+| ZL0.904E1   | Feeder Breaker            | HDP-PH                 | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB              | Switchboard  | White     |
+| ZL0.904E1   | Feeder Breaker            | ATS-CR                 | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB              | Switchboard  | White     |
+| ZL0.904E1   | Feeder Breaker            | ATS-OR                 | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB              | Switchboard  | White     |
+| ZL0.904E1   | Feeder Breaker            | ATS-CDPX               | 800 A          | 480Y/277 V     | 3P4W         | MSB-HB              | Switchboard  | White     |
+| ZL0.904E1   | Transformer               | T-GENSET1              | 30 kVA         | 480?208Y/120 V | 3P4W         | T-GENSET1 PRI DISC  | Wall-mounted | Red       |
+| ZL0.904E1   | Transformer               | T-GENSET2              | 30 kVA         | 480?208Y/120 V | 3P4W         | T-GENSET2 PRI DISC  | Wall-mounted | Red       |
+| ZL0.904E1   | Disconnect                | T-GENSET1 PRI DISC     | 60 A           | 480Y/277 V     | 3P3W         | HP-CR-CP-A          | Wall-mounted | Red       |
+| ZL0.904E1   | Disconnect                | T-GENSET1 SEC DISC     | 100 A          | 480Y/277 V     | 3P4W         | T-GENSET1           | Wall-mounted | Red       |
+| ZL0.904E1   | Disconnect                | T-GENSET2 PRI DISC     | 60 A           | 480Y/277 V     | 3P3W         | HP-CR-CP-A          | Wall-mounted | Red       |
+| ZL0.904E1   | Disconnect                | T-GENSET2 SEC DISC     | 100 A          | 480Y/277 V     | 3P4W         | T-GENSET2           | Wall-mounted | Red       |

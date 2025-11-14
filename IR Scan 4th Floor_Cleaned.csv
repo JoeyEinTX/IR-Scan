@@ -1,0 +1,8 @@
+Floor,Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
+4th Floor,ZL4.331,Branch Panel,HP-CR-4A,100A,480Y/277V,3P4W,HP-CR-5A,Wall-mounted,Normal,Standard labeling; not generator-backed
+4th Floor,ZL4.331,Branch Panel,LP-4B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,Normal power
+4th Floor,ZL4.331,Branch Panel,LP-CR-4A,100A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Normal,Critical branch
+4th Floor,ZL4.331,Branch Panel,LP-4A,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Normal power
+4th Floor,ZL4.331,Branch Panel,LP-4A Section 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Continuation section of LP-4A
+4th Floor,ZL4.331,Branch Panel,HP-4A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,Lighting/mechanical loads
+4th Floor,ZL4.331,Branch Panel,LP-CR-4B,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Normal,Critical branch

@@ -1,0 +1,55 @@
+| Room Number | Equipment Type | Equipment Name / Label | Amperage / kVA | Voltage | Phase / Wire | Fed From | Mounting | Tag Color | Notes |
+|-------------|----------------|-------------------------|----------------|---------|--------------|----------|-----------|-----------|--------|
+| ZL2.106 | Transformer | T-LP-EQ-2B | 30 kVA | 480→208Y/120 V | 3P3W | HP-EQ-2B | Suspended | Red | |
+| ZL2.106 | Panel | LP-EQ-2B | 100A | 208Y/120 V | 3P4W | T-LP-EQ-2B | Wall | Red | Branch Panel |
+| ZL2.106 | Panel | HP-EQ-2B | 150A | 480Y/277 V | 3P4W | EMDA-HB | Wall | Red | Feeder Panel |
+| ZL2.406 | Panel | LP-LS-2A | 100A | 208Y/120 V | 3P4W | LDP-H1 | Wall | White | Branch Panel |
+| ZL2.406 | Panel | HP-LS-2A | 100A | 480Y/277 V | 3P4W | HDP-H1 | Wall | White | Feeder Panel |
+| ZL2.406 | Transformer | T-LP-LS-2A | 15 kVA | 480→208Y/120 V | 3P3W | HP-LS-2A | Suspended | Red | |
+| ZL2.410 | Panel | LP-CR-2BB | 100A | 208Y/120 V | 3P4W | ELDP-CR-H1 | Wall | Red | Branch Panel |
+| ZL2.410 | Panel | LP-2BB | 100A | 208Y/120 V | 3P4W | LDP-H2 | Wall | White | Branch Panel |
+| ZL2.818A | Panel | LP-EQ-2A | 100A | 208Y/120 V | 3P4W | T-LP-EQ-2A | Wall | Red | Branch Panel |
+| ZL2.818A | Panel | HP-EQ-2A | 150A | 480Y/277 V | 3P4W | EMDA-HB | Wall | Red | Feeder Panel |
+| ZL2.818A | Panel | LP-2A | 100A | 208Y/120 V | 3P4W | LDP-H1 | Wall | White | Branch Panel |
+| ZL2.818A | Panel | HP-2A | 100A | 480Y/277 V | 3P4W | HDP-H1 | Wall | White | Feeder Panel |
+| ZL2.818A | Panel | HP-CR-2A | 100A | 480Y/277 V | 3P4W | EHDP-CR-H | Wall | Red | Feeder Panel |
+| ZL2.818A | Panel | LP-CR-2A | 200A | 208Y/120 V | 3P4W | ELDP-CR-H | Wall | Red | Branch Panel |
+| ZL2.818A | Panel | LP-CR-2A SECTION 2 | 200A | 208Y/120 V | 3P4W | LP-CR-2A | Wall | Red | Branch Panel |
+| ZL2.818A | Feeder Panel | EHDP-OR1 | 400A | 480Y/277 V | 3P4W | EHDP-CR-X | Wall | Red | |
+| ZL2.818A | Panel | ELDP-OR | 500A | 480Y/277 V | 3P4W | T-ELDP-OR | Wall | Red | Feeder Panel |
+| ZL2.818A | ECB | T-ELDP-OR ECB | 225A | 480Y/277 V | 3P4W | ATS-OR | Wall | Red | Disconnect/Breaker |
+| ZL2.818A | Transformer | T-XFMR X-RAY | 75 kVA | 480→208Y/120 V | 3P3W | — | Floor | Red | |
+| ZL2.818A | Transformer | T-ELDP-OR | 150 kVA | 480→208Y/120 V | 3P3W | ATS-OR | Floor | Red | |
+| ZL2.818A | Transformer | T-LP-EQ-2A | 30 kVA | 480→208Y/120 V | 3P3W | HP-EQ-2A | Floor | Red | |
+| OR-1 | LIM Panel | OR1A | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-1 | LIM Panel | OR1B | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-1 | LIM Panel | OR1C | 60A | 480Y/277 V | 2P3W | EHDP-OR1 | Wall | Red | Identical for OR 1–10 |
+| OR-2 | LIM Panel | OR2A | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-2 | LIM Panel | OR2B | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-2 | LIM Panel | OR2C | 60A | 480Y/277 V | 2P3W | EHDP-OR1 | Wall | Red | Identical for OR 1–10 |
+| OR-3 | LIM Panel | OR1A | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-3 | LIM Panel | OR1B | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-3 | LIM Panel | OR1C | 60A | 480Y/277 V | 2P3W | EHDP-OR1 | Wall | Red | Identical for OR 1–10 |
+| OR-4 | LIM Panel | OR4A | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-4 | LIM Panel | OR4B | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-4 | LIM Panel | OR4C | 60A | 480Y/277 V | 2P3W | EHDP-OR1 | Wall | Red | Identical for OR 1–10 |
+| OR-5 | LIM Panel | OR5A | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-5 | LIM Panel | OR5B | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-5 | LIM Panel | OR5C | 60A | 480Y/277 V | 2P3W | EHDP-OR1 | Wall | Red | Identical for OR 1–10 |
+| OR-6 | LIM Panel | OR6A | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-6 | LIM Panel | OR6B | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-6 | LIM Panel | OR6C | 60A | 480Y/277 V | 2P3W | EHDP-OR1 | Wall | Red | Identical for OR 1–10 |
+| OR-7 | LIM Panel | OR7A | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-7 | LIM Panel | OR7B | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-7 | LIM Panel | OR7C | 60A | 480Y/277 V | 2P3W | EHDP-OR1 | Wall | Red | Identical for OR 1–10 |
+| OR-8 | LIM Panel | OR8A | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-8 | LIM Panel | OR8B | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-8 | LIM Panel | OR8C | 60A | 480Y/277 V | 2P3W | EHDP-OR1 | Wall | Red | Identical for OR 1–10 |
+| OR-9 | LIM Panel | OR9A | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-9 | LIM Panel | OR9B | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-9 | LIM Panel | OR9C | 60A | 480Y/277 V | 2P3W | EHDP-OR1 | Wall | Red | Identical for OR 1–10 |
+| OR-10 | LIM Panel | OR10A | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-10 | LIM Panel | OR10B | 60A | 208/120 V | 2P3W | ELDP-OR | Wall | Red | Identical for OR 1–10 |
+| OR-10 | LIM Panel | OR10C | 60A | 480Y/277 V | 2P3W | EHDP-OR1 | Wall | Red | Identical for OR 1–10 |
+| PROCEDURE 1 | Panel | PROCEDURE 1 | 100A | 208Y/120 V | 3P4W | ELDP-OR | Wall | Red | Branch Panel |
+| PROCEDURE 2 | Panel | PROCEDURE 2 | 100A | 208Y/120 V | 3P4W | ELDP-OR | Wall | Red | Branch Panel |

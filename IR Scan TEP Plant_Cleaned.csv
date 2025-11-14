@@ -1,0 +1,25 @@
+Floor,Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
+TEP Plant,TEP Plant,Feeder Panel,EMD-CP,400A,480Y/277V,3P4W,E HDP-EE1,Wall-mounted,Emergency,Emergency feeder panel
+TEP Plant,TEP Plant,Branch Panel,HP-CR-CP,200A,480Y/277V,3P4W,E HDP-CR,Wall-mounted,Emergency,
+TEP Plant,TEP Plant,Branch Panel,HP-CR-CP-A,200A,480Y/277V,3P4W,E HDP-CR,Wall-mounted,Emergency,
+TEP Plant,TEP Plant,Branch Panel,HP-CP-A,200A,480Y/277V,3P4W,MD-CP-2,Wall-mounted,Normal,
+TEP Plant,TEP Plant,Branch Panel,HP-CP-B,225A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,
+TEP Plant,TEP Plant,Branch Panel,LP-CR-CP,150A,208Y/120V,3P4W,T-LP-CR-CP,Wall-mounted,Emergency,
+TEP Plant,TEP Plant,Branch Panel,LP-CR-CP-B,150A,208Y/120V,3P4W,T-LP-CR-CP-B,Wall-mounted,Emergency,
+TEP Plant,TEP Plant,Branch Panel,LP-CP,150A,208Y/120V,3P4W,T-LP-CP,Wall-mounted,Normal,
+TEP Plant,TEP Plant,Branch Panel,LP-CP-2,80A,208Y/120V,3P4W,LP-CP,Wall-mounted,Normal,
+TEP Plant,TEP Plant,Transformer,T-LP-CR-CP,45 kVA,480→208Y/120V,3P3W,HP-CR-CP,Floor-mounted,Emergency,Square D dry-type transformer
+TEP Plant,TEP Plant,Transformer,T-LP-CP,45 kVA,480→208Y/120V,3P3W,HP-CP,Floor-mounted,Normal,Square D dry-type transformer
+TEP Plant,TEP Plant,Disconnect,SF-6,15A,480Y/277V,3P3W,MD-CP-2,Wall-mounted,Normal,Only one of three disconnects in use; two spares
+TEP Plant,TEP Plant,Automatic Transfer Switch,Fire Pump 1 ATS,400A,480Y/277V,3P4W,Normal: XFMR CP / Emergency: EMSB,Wall-mounted,Emergency,Tornatech fire pump controller - Pump #1
+TEP Plant,TEP Plant,Automatic Transfer Switch,Fire Pump 2 ATS,400A,480Y/277V,3P4W,Normal: XFMR CP / Emergency: EMSB,Wall-mounted,Emergency,Tornatech fire pump controller - Pump #2
+TEP Plant,TEP Main Switch Electrical Room,Main Breaker,MAIN,,480Y/277V,3P4W,Utility Service,Switchboard,Normal,Schneider/Square D PowerZone multi-section gear
+TEP Plant,TEP Main Switch Electrical Room,Feeder Breaker,MD-CP-1,,480Y/277V,3P4W,Main,Switchboard,Normal,Feeds MD-CP-1 distribution
+TEP Plant,TEP Main Switch Electrical Room,Feeder Breaker,MD-CP-2,,480Y/277V,3P4W,Main,Switchboard,Normal,Feeds MD-CP-2 distribution
+TEP Plant,TEP Main Switch Electrical Room,Feeder Breaker,CH-1,,480Y/277V,3P4W,Main,Switchboard,Normal,Feeds CH-1 distribution
+TEP Plant,TEP Main Switch Electrical Room,Feeder Breaker,CH-2,,480Y/277V,3P4W,Main,Switchboard,Normal,Feeds CH-2 distribution
+TEP Plant,TEP Main Switch Electrical Room,Feeder Breaker,CH-3,,480Y/277V,3P4W,Main,Switchboard,Normal,Feeds CH-3 distribution
+TEP Plant,TEP Main Switch Electrical Room,Feeder Breaker,HDP-RAD,,480Y/277V,3P4W,Main,Switchboard,Normal,Feeds HDP-RAD panel
+TEP Plant,TEP Main Switch Electrical Room,Branch Panel,HP-EQ-CP,150A,480Y/277V,3P4W,EMD-CP,Wall-mounted,Emergency,
+TEP Plant,TEP Main Switch Electrical Room,Branch Panel,LP-EQ-CP,100A,208Y/120V,3P4W,T-LP-EQ-CP,Wall-mounted,Emergency,
+TEP Plant,TEP Main Switch Electrical Room,Transformer,T-LP-EQ-CP,30 kVA,480→208Y/120V,3P3W,HP-EQ-CP,Floor-mounted,Emergency,Square D dry-type transformer

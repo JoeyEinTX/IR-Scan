@@ -1,0 +1,51 @@
+# TEP Plant – Electrical Distribution
+
+| Room Number | Equipment Type | Equipment Name / Label | Amperage / kVA | Voltage | Phase / Wire | Fed From | Mounting | Tag Color | Notes |
+|--------------|----------------|------------------------|----------------|----------|---------------|-----------|-----------|-----------|--------|
+| **TEP Plant** | **Feeder Panel** | EMD-CP | 400 A | 480Y/277 V | 3P4W | E HDP-EE1 | Wall-mounted | Red | Emergency feeder panel |
+| TEP Plant | **Branch Panel** | HP-CR-CP | 200 A | 480Y/277 V | 3P4W | E HDP-CR | Wall-mounted | Red | — |
+| TEP Plant | **Branch Panel** | HP-CR-CP-A | 200 A | 480Y/277 V | 3P4W | E HDP-CR | Wall-mounted | Red | — |
+| TEP Plant | **Branch Panel** | HP-CP-A | 200 A | 480Y/277 V | 3P4W | MD-CP-2 | Wall-mounted | White | — |
+| TEP Plant | **Branch Panel** | HP-CP-B | 225 A | 480Y/277 V | 3P4W | MSB-HB | Wall-mounted | White | — |
+| TEP Plant | **Branch Panel** | LP-CR-CP | 150 A | 208Y/120 V | 3P4W | T-LP-CR-CP | Wall-mounted | Red | — |
+| TEP Plant | **Branch Panel** | LP-CR-CP-B | 150 A | 208Y/120 V | 3P4W | T-LP-CR-CP-B | Wall-mounted | Red | — |
+| TEP Plant | **Branch Panel** | LP-CP | 150 A | 208Y/120 V | 3P4W | T-LP-CP | Wall-mounted | White | — |
+| TEP Plant | **Branch Panel** | LP-CP-2 | 80 A | 208Y/120 V | 3P4W | LP-CP | Wall-mounted | White | — |
+| TEP Plant | **Transformer** | T-LP-CR-CP | 45 kVA | 480→208Y/120 V | 3P3W | HP-CR-CP | Floor-mounted | Red | Square D dry-type transformer |
+| TEP Plant | **Transformer** | T-LP-CP | 45 kVA | 480→208Y/120 V | 3P3W | HP-CP | Floor-mounted | White | Square D dry-type transformer |
+| TEP Plant | **Disconnect** | SF-6 | 15 A | 480Y/277 V | 3P3W | MD-CP-2 | Wall-mounted | White | Only one of three disconnects in use; two spares |
+| TEP Plant | **Automatic Transfer Switch** | Fire Pump 1 ATS | 400 A | 480Y/277 V | 3P4W | Normal: XFMR CP / Emergency: EMSB | Wall-mounted | Red | Tornatech fire pump controller – Pump #1 |
+| TEP Plant | **Automatic Transfer Switch** | Fire Pump 2 ATS | 400 A | 480Y/277 V | 3P4W | Normal: XFMR CP / Emergency: EMSB | Wall-mounted | Red | Tornatech fire pump controller – Pump #2 |
+
+---
+
+## TEP – Main Switch Electrical Room (Inside TEP Plant)
+
+| Room Number | Equipment Type | Equipment Name / Label | Amperage / kVA | Voltage | Phase / Wire | Fed From | Mounting | Tag Color | Notes |
+|--------------|----------------|------------------------|----------------|----------|---------------|-----------|-----------|-----------|--------|
+| TEP – Main Switch Electrical Room | **Main Breaker** | MAIN | — | 480Y/277 V | 3P4W | Utility Service | Switchboard | White | Schneider/Square D PowerZone multi-section gear |
+| TEP – Main Switch Electrical Room | **Feeder Breaker** | MD-CP-1 | — | 480Y/277 V | 3P4W | Main | Switchboard | White | Feeds MD-CP-1 distribution |
+| TEP – Main Switch Electrical Room | **Feeder Breaker** | MD-CP-2 | — | 480Y/277 V | 3P4W | Main | Switchboard | White | Feeds MD-CP-2 distribution |
+| TEP – Main Switch Electrical Room | **Feeder Breaker** | CH-1 | — | 480Y/277 V | 3P4W | Main | Switchboard | White | Feeds CH-1 distribution |
+| TEP – Main Switch Electrical Room | **Feeder Breaker** | CH-2 | — | 480Y/277 V | 3P4W | Main | Switchboard | White | Feeds CH-2 distribution |
+| TEP – Main Switch Electrical Room | **Feeder Breaker** | CH-3 | — | 480Y/277 V | 3P4W | Main | Switchboard | White | Feeds CH-3 distribution |
+| TEP – Main Switch Electrical Room | **Feeder Breaker** | HDP-RAD | — | 480Y/277 V | 3P4W | Main | Switchboard | White | Feeds HDP-RAD panel |
+| TEP – Main Switch Electrical Room | **Branch Panel** | HP-EQ-CP | 150 A | 480Y/277 V | 3P4W | EMD-CP | Wall-mounted | Red | — |
+| TEP – Main Switch Electrical Room | **Branch Panel** | LP-EQ-CP | 100 A | 208Y/120 V | 3P4W | T-LP-EQ-CP | Wall-mounted | Red | — |
+| TEP – Main Switch Electrical Room | **Transformer** | T-LP-EQ-CP | 30 kVA | 480→208Y/120 V | 3P3W | HP-EQ-CP | Floor-mounted | Red | Square D dry-type transformer |
+
+---
+
+### TEP Plant Summary
+- **1 Feeder Panel**  
+- **11 Branch Panels**  
+- **3 Transformers**  
+- **1 Disconnect**  
+- **2 Automatic Transfer Switches**  
+- **1 Main Breaker**  
+- **6 Feeder Breakers**  
+**➡️ Total Equipment: 24**
+
+---
+
+_Report compiled from photo documentation and verified labeling within TEP Plant and Main Switch Electrical Room._

@@ -1,0 +1,14 @@
+Room Number	Equipment Type	Equipment Name / Label	Amperage / kVA	Voltage	Phase / Wire	Fed From	Mounting	Tag Color
+ZL1.206	Branch Panel	HP-CR-1A	100 A	480Y/277 V	3P4W	E HDP-CR-H	Wall-mounted	Red
+ZL1.206	Branch Panel	HP-1A	150 A	480Y/277 V	3P4W	HDP-H1	Wall-mounted	White
+ZL1.206	Branch Panel	LP-CR-1A	100 A	208Y/120 V	3P4W	ELDP-CR-H	Wall-mounted	Red
+ZL1.206	Branch Panel	LP-CR-1B	100 A	208Y/120 V	3P4W	ELDP-CR-H1	Wall-mounted	Red
+ZL1.206	Branch Panel	LP-1B	225 A	208Y/120 V	3P4W	LDP-H1	Wall-mounted	White
+ZL1.206	Branch Panel	LP-1D	100 A	208Y/120 V	3P4W	LDP-H2	Wall-mounted	White
+ZL1.206	Branch Panel	LP-1E	60 A	208Y/120 V	3P4W	LP-1D	Wall-mounted	White
+ZL1.214BD	Branch Panel	LP-1A	225 A	208Y/120 V	3P4W	LDP-H1	Wall-mounted	White
+ZL1.214BD	Branch Panel	LP-1A Section 2	225 A	208Y/120 V	3P4W	LDP-H1	Wall-mounted	White
+Servery	Branch Panel	LP-1C	100 A	208Y/120 V	3P4W	LDP-H1	Wall-mounted	White
+Servery	Branch Panel	LP-KB	300 A	208Y/120 V	3P4W	DP-K	Wall-mounted	White
+Servery	Branch Panel	LP-KD	100 A	208Y/120 V	3P4W	DP-K	Wall-mounted	White
+Servery	Branch Panel	LP-KE	200 A	208Y/120 V	3P4W	DP-K	Wall-mounted	White

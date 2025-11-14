@@ -1,0 +1,10 @@
+| Room Number | Equipment Type   | Equipment Name / Label | Amperage / kVA | Voltage   | Phase / Wire | Fed From     | Mounting     | Tag Color | Notes |
+| ----------- | ---------------- | ---------------------- | -------------- | --------- | ------------ | ------------ | ------------ | --------- | ----- |
+| ZL7.236     | **Branch Panel** | LP-CR-7BA              | 60A            | 208Y/120V | 3P4W         | LP-CR-7B     | Wall-mounted | Red       | —     |
+| ZL7.236     | **Branch Panel** | HP-CR-7A               | 100A           | 480Y/277V | 3P4W         | HP-CR-8A     | Wall-mounted | Red       | —     |
+| ZL7.236     | **Branch Panel** | LP-CR-7A               | 100A           | 208Y/120V | 3P4W         | ELDP-CR-HPH  | Wall-mounted | Red       | —     |
+| ZL7.236     | **Branch Panel** | LP-7A                  | 225A           | 208Y/120V | 3P4W         | LDP-PH       | Wall-mounted | White     | —     |
+| ZL7.236     | **Branch Panel** | LP-7A SECTION 2        | 225A           | 208Y/120V | 3P4W         | LDP-PH       | Wall-mounted | White     | —     |
+| ZL7.236     | **Branch Panel** | HP-7A                  | 100A           | 480Y/277V | 3P4W         | HDP-PH       | Wall-mounted | White     | —     |
+| ZL7.236     | **Branch Panel** | LP-7B                  | 100A           | 208Y/120V | 3P4W         | LDP-PH1      | Wall-mounted | White     | —     |
+| ZL7.236     | **Branch Panel** | LP-CR-7B               | 100A           | 208Y/120V | 3P4W         | ELDP-CR-HPH1 | Wall-mounted | Red       | —     |

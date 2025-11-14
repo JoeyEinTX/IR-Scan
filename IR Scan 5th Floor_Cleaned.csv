@@ -1,0 +1,11 @@
+Floor,Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
+5th Floor,ZL5.236,Branch Panel,HP-CR-5A,100A,480Y/277V,3P4W,HP-CR-6A,Wall-mounted,Emergency,Schneider Square D
+5th Floor,ZL5.236,Branch Panel,LP-CR-5A,100A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,Handwritten circuits 5; 11; 3; 7; 9
+5th Floor,ZL5.236,Branch Panel,LP-CR-5B,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Emergency,
+5th Floor,ZL5.236,Branch Panel,LP-5A,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,
+5th Floor,ZL5.236,Branch Panel,LP-5A Section 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Continuation of LP-5A
+5th Floor,ZL5.236,Branch Panel,HP-5A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,
+5th Floor,ZL5.236,Branch Panel,LP-5B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,
+5th Floor,ZL5.236,Branch Panel,HP-LS-5A,100A,480Y/277V,3P4W,EHDP-LS,Wall-mounted,Emergency,
+5th Floor,ZL5.236,Branch Panel,LP-LS-5A,50A,208Y/120V,3P4W,T-LP-LS-5A,Wall-mounted,Emergency,Fire alarm/emergency circuit inside
+5th Floor,ZL5.236,Transformer,T-LP-LS-5A,15 kVA,480→208Y/120V,3P3W,HP-LS-5A,Suspended,Emergency,Square D - mounted above rack
