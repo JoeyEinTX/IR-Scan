@@ -1,12 +1,12 @@
 Floor,Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
-Ground,Cyber,Transformer,T-LACC,45 kVA,480→208Y/120V,3P3W,HP-LACC,Floor-mounted,Normal,Step-down transformer
-Ground,Cyber,Transformer,T-LACC2,45 kVA,480→208Y/120V,3P3W,HP-LACC,Suspended,Normal,Step-down transformer
+Ground,Cyber,Transformer,T-LACC,45 kVA,480-208Y/120V,3P3W,HP-LACC,Floor-mounted,Normal,Step-down transformer
+Ground,Cyber,Transformer,T-LACC2,45 kVA,480-208Y/120V,3P3W,HP-LACC,Suspended,Normal,Step-down transformer
 Ground,Cyber,Branch Panel,HP-LACC,150A,480Y/277V,3P4W,MDA-HB,Wall-mounted,Normal,Normal branch panel
 Ground,Cyber,Branch Panel,LP-LACC,150A,208Y/120V,3P4W,T-LACC,Wall-mounted,Normal,Normal branch panel
 Ground,Cyber,Disconnect,SF-1,15A,480Y/277V,3P3W,HP-LACC,Wall-mounted,Normal,Supply fan disconnect
 Ground,Cyber,Disconnect,EF-1,15A,480Y/277V,3P3W,HP-LACC,Wall-mounted,Normal,Exhaust fan disconnect
-Ground,ZL0.802,Transformer,T-LP-A,30 kVA,480→208Y/120V,3P3W,HP-A,Floor-mounted,Normal,Step-down transformer
-Ground,ZL0.802,Transformer,T-LP-EQ-A,30 kVA,480→208Y/120V,3P3W,HP-EQ-A,Floor-mounted,Emergency,Emergency step-down
+Ground,ZL0.802,Transformer,T-LP-A,30 kVA,480-208Y/120V,3P3W,HP-A,Floor-mounted,Normal,Step-down transformer
+Ground,ZL0.802,Transformer,T-LP-EQ-A,30 kVA,480-208Y/120V,3P3W,HP-EQ-A,Floor-mounted,Emergency,Emergency step-down
 Ground,ZL0.802,Branch Panel,HP-A,150A,480Y/277V,3P4W,MDA-HB,Wall-mounted,Normal,Normal branch panel
 Ground,ZL0.802,Branch Panel,HP-EQ-A,150A,480Y/277V,3P4W,EMDA-HB,Wall-mounted,Emergency,Emergency branch panel
 Ground,ZL0.802,Branch Panel,LP-A,100A,208Y/120V,3P4W,T-LP-A,Wall-mounted,Normal,Normal branch panel
@@ -18,8 +18,8 @@ Ground,ZL0.802,Disconnect,EF-3-5 DISC,15A,480V,3P3W,MDA-HB,Wall-mounted,Normal,E
 Ground,ZL0.716,Disconnect,ELEV-8,100A,480Y/277V,3P3W,EMDA-HB,Wall-mounted,Emergency,Elevator #8
 Ground,ZL0.716,Disconnect,ELEV-9,100A,480Y/277V,3P3W,EMDA-HB,Wall-mounted,Emergency,Elevator #9
 Ground,ZL0.716,Disconnect,ELEV-10,100A,480V,3P3W,PNL MCCA/HB,Wall-mounted,Normal,Elevator #10
-Ground,ZL0.602,Transformer,T-LDP-H1,225 kVA,480→208Y/120V,3P3W,HDP-H1,Suspended,Normal,Step-down feeding LDP-H1
-Ground,ZL0.602,Transformer,T-DP-K,225 kVA,480→208Y/120V,3P3W,HP-K,Suspended,Normal,Step-down feeding DP-K
+Ground,ZL0.602,Transformer,T-LDP-H1,225 kVA,480-208Y/120V,3P3W,HDP-H1,Suspended,Normal,Step-down feeding LDP-H1
+Ground,ZL0.602,Transformer,T-DP-K,225 kVA,480-208Y/120V,3P3W,HP-K,Suspended,Normal,Step-down feeding DP-K
 Ground,ZL0.602,Feeder Panel,HDP-H1,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Distribution
 Ground,ZL0.602,Feeder Panel,HP-K,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Distribution
 Ground,ZL0.602,Feeder Panel,LDP-H1,1000A,208Y/120V,3P4W,HDP-PH,Wall-mounted,Normal,Lighting/power
@@ -29,12 +29,12 @@ Ground,ZL0.602,Branch Panel,LP-CR-GB,250A,208Y/120V,3P4W,LP-CR-GB,Wall-mounted,E
 Ground,ZL0.602,Branch Panel,LP-GC,100A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Lighting/power
 Ground,ZL0.602,Branch Panel,LP-GA,225A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Lighting/power
 Ground,ZL0.602,Branch Panel,LP-GA Sec 2,225A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Section continuation
-Ground,ZL0.604,Transformer,T-LP-LS-GB,15 kVA,480→208Y/120V,3P3W,HP-LS-GA,Suspended,Emergency,Step-down
-Ground,ZL0.604,Transformer,T-LP-CR-G3,75 kVA,480→208Y/120V,3P3W,EHDP-CR-H,Suspended,Emergency,Step-down
-Ground,ZL0.604,Transformer,T-ELDP-CR-H,112.5 kVA,480→208Y/120V,3P3W,EHDP-CR-H,Suspended,Emergency,Step-down
-Ground,ZL0.604,Transformer,T-LP-CR-GC,45 kVA,480→208Y/120V,3P4W,T-LP-CR-GC PRI DISC,Suspended,Emergency,Step-down
-Ground,ZL0.604,Transformer,T-LP-LS-GA,15 kVA,480→208Y/120V,3P3W,HP-LS-GA,Floor-mounted,Emergency,Step-down
-Ground,ZL0.604,Transformer,T-LP-CR-GB,45 kVA,480→208Y/120V,3P4W,EHDP-CR-H,Floor-mounted,Emergency,Step-down
+Ground,ZL0.604,Transformer,T-LP-LS-GB,15 kVA,480-208Y/120V,3P3W,HP-LS-GA,Suspended,Emergency,Step-down
+Ground,ZL0.604,Transformer,T-LP-CR-G3,75 kVA,480-208Y/120V,3P3W,EHDP-CR-H,Suspended,Emergency,Step-down
+Ground,ZL0.604,Transformer,T-ELDP-CR-H,112.5 kVA,480-208Y/120V,3P3W,EHDP-CR-H,Suspended,Emergency,Step-down
+Ground,ZL0.604,Transformer,T-LP-CR-GC,45 kVA,480-208Y/120V,3P4W,T-LP-CR-GC PRI DISC,Suspended,Emergency,Step-down
+Ground,ZL0.604,Transformer,T-LP-LS-GA,15 kVA,480-208Y/120V,3P3W,HP-LS-GA,Floor-mounted,Emergency,Step-down
+Ground,ZL0.604,Transformer,T-LP-CR-GB,45 kVA,480-208Y/120V,3P4W,EHDP-CR-H,Floor-mounted,Emergency,Step-down
 Ground,ZL0.604,Feeder Panel,EHDP-LS,225A,480Y/277V,3P4W,ATS-LS,Wall-mounted,Emergency,Emergency distribution
 Ground,ZL0.604,Feeder Panel,EHDP-CR-H,400A,480Y/277V,3P4W,EHDP-CR,Wall-mounted,Emergency,Emergency distribution
 Ground,ZL0.604,Feeder Panel,ELDP-CR-H,400A,208Y/120V,3P4W,T-ELDP-CR-H,Wall-mounted,Emergency,Emergency lighting/power
@@ -48,7 +48,7 @@ Ground,ZL0.604,Branch Panel,LP-CR-GA,200A,208Y/120V,3P4W,ELDP-CR-H,Wall-mounted,
 Ground,ZL0.604,Branch Panel,LP-CR-GA Sec 2,200A,208Y/120V,3P4W,LP-CR-GA,Wall-mounted,Emergency,Section continuation
 Ground,ZL0.604,Disconnect,T-LP-CR-GC PRI DISC,150A,480Y/277V,3P3W,EHDP-CR-H,Wall-mounted,Emergency,Transformer primary
 Ground,ZL0.604,Disconnect,T-LP-CR-GC SEC DISC,150A,480Y/277V,3P4W,T-LP-CR-GC,Wall-mounted,Emergency,Transformer secondary
-Ground,ZL0.706,Transformer,T-LP-CR-GD,75 kVA,480→208Y/120V,3P4W,EHDP-CR-X,Floor-mounted,Emergency,Step-down
+Ground,ZL0.706,Transformer,T-LP-CR-GD,75 kVA,480-208Y/120V,3P4W,EHDP-CR-X,Floor-mounted,Emergency,Step-down
 Ground,ZL0.706,Feeder Panel,EHDP-CR-X,1200A,480Y/277V,3P4W,ATS-CRDX,Wall-mounted,Emergency,Emergency distribution
 Ground,ZL0.706,Branch Panel,LP-CR-2,150A,208Y/120V,3P4W,T-LP-CR-2,Wall-mounted,Emergency,Emergency lighting/power
 Ground,ZL0.706,Branch Panel,LP-CR-GD,250A,208Y/120V,3P4W,T-LP-CR-GD,Wall-mounted,Emergency,Emergency lighting/power

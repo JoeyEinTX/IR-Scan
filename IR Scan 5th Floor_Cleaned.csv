@@ -8,4 +8,4 @@ Floor,Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase
 5th Floor,ZL5.236,Branch Panel,LP-5B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,
 5th Floor,ZL5.236,Branch Panel,HP-LS-5A,100A,480Y/277V,3P4W,EHDP-LS,Wall-mounted,Emergency,
 5th Floor,ZL5.236,Branch Panel,LP-LS-5A,50A,208Y/120V,3P4W,T-LP-LS-5A,Wall-mounted,Emergency,Fire alarm/emergency circuit inside
-5th Floor,ZL5.236,Transformer,T-LP-LS-5A,15 kVA,480→208Y/120V,3P3W,HP-LS-5A,Suspended,Emergency,Square D - mounted above rack
+5th Floor,ZL5.236,Transformer,T-LP-LS-5A,15 kVA,480-208Y/120V,3P3W,HP-LS-5A,Suspended,Emergency,Square D - mounted above rack

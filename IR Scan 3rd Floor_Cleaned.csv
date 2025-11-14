@@ -1,10 +1,10 @@
 Floor,Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
-3rd Floor,ZL3.114,Transformer,T-ELDP-CR-H1,112.5 kVA,480→208Y/120V,3P3W,EHDP-CR-H,Floor-mounted,Emergency,Step-down transformer
+3rd Floor,ZL3.114,Transformer,T-ELDP-CR-H1,112.5 kVA,480-208Y/120V,3P3W,EHDP-CR-H,Floor-mounted,Emergency,Step-down transformer
 3rd Floor,ZL3.114,Disconnect,T-ELDP-CR-H1 Disconnect,250A,480Y/277V,3P4W,EHDP-CR-H,Wall-mounted,Emergency,Feeds transformer above
 3rd Floor,ZL3.114,Feeder Panel,ELDP-CR-H1,400A,208Y/120V,3P4W,T-ELDP-CR-H1,Wall-mounted,Emergency,Emergency lighting/power feeder panel
 3rd Floor,ZL3.114,Branch Panel,LP-CR-3C,125A,208Y/120V,3P4W,ELDP-CR-H,Wall-mounted,Emergency,Branch circuit panel
 3rd Floor,ZL3.114,Branch Panel,LP-CR-3D,100A,208Y/120V,3P4W,ELDP-CR-H1,Wall-mounted,Emergency,Branch circuit panel
-3rd Floor,ZL3.114,Transformer,T-LDP-H2,112.5 kVA,480→208Y/120V,3P3W,HDP-H1,Floor-mounted,Normal,Step-down transformer
+3rd Floor,ZL3.114,Transformer,T-LDP-H2,112.5 kVA,480-208Y/120V,3P3W,HDP-H1,Floor-mounted,Normal,Step-down transformer
 3rd Floor,ZL3.114,Disconnect,T-LDP-H2 Disconnect,250A,480Y/277V,3P4W,HDP-H1,Wall-mounted,Normal,Feeds transformer above
 3rd Floor,ZL3.114,Feeder Panel,LDP-H2,400A,208Y/120V,3P4W,HDP-H1,Wall-mounted,Normal,Lighting/power feeder panel
 3rd Floor,ZL3.114,Branch Panel,LP-3C,100A,208Y/120V,3P4W,LDP-H2,Wall-mounted,Normal,Branch circuit panel

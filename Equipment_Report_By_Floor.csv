@@ -1,8 +1,8 @@
-HOSPITAL ELECTRICAL EQUIPMENT INVENTORY REPORT
-Organized by Floor with Equipment Type Breakdown
-
-FLOOR: TEP Plant,Total Equipment: 24
-
+HOSPITAL ELECTRICAL EQUIPMENT INVENTORY REPORT,,,,,,,,,
+Organized by Floor with Equipment Type Breakdown,,,,,,,,,
+,,,,,,,,,
+FLOOR: TEP Plant,Total Equipment: 24,,,,,,,,
+,,,,,,,,,
 Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
 TEP Plant,Feeder Panel,EMD-CP,400A,480Y/277V,3P4W,E HDP-EE1,Wall-mounted,Emergency,Emergency feeder panel
 TEP Plant,Branch Panel,HP-CR-CP,200A,480Y/277V,3P4W,E HDP-CR,Wall-mounted,Emergency,
@@ -13,8 +13,8 @@ TEP Plant,Branch Panel,LP-CR-CP,150A,208Y/120V,3P4W,T-LP-CR-CP,Wall-mounted,Emer
 TEP Plant,Branch Panel,LP-CR-CP-B,150A,208Y/120V,3P4W,T-LP-CR-CP-B,Wall-mounted,Emergency,
 TEP Plant,Branch Panel,LP-CP,150A,208Y/120V,3P4W,T-LP-CP,Wall-mounted,Normal,
 TEP Plant,Branch Panel,LP-CP-2,80A,208Y/120V,3P4W,LP-CP,Wall-mounted,Normal,
-TEP Plant,Transformer,T-LP-CR-CP,45 kVA,480→208Y/120V,3P3W,HP-CR-CP,Floor-mounted,Emergency,Square D dry-type transformer
-TEP Plant,Transformer,T-LP-CP,45 kVA,480→208Y/120V,3P3W,HP-CP,Floor-mounted,Normal,Square D dry-type transformer
+TEP Plant,Transformer,T-LP-CR-CP,45 kVA,480-208Y/120V,3P3W,HP-CR-CP,Floor-mounted,Emergency,Square D dry-type transformer
+TEP Plant,Transformer,T-LP-CP,45 kVA,480-208Y/120V,3P3W,HP-CP,Floor-mounted,Normal,Square D dry-type transformer
 TEP Plant,Disconnect,SF-6,15A,480Y/277V,3P3W,MD-CP-2,Wall-mounted,Normal,Only one of three disconnects in use; two spares
 TEP Plant,Automatic Transfer Switch,Fire Pump 1 ATS,400A,480Y/277V,3P4W,Normal: XFMR CP / Emergency: EMSB,Wall-mounted,Emergency,Tornatech fire pump controller - Pump #1
 TEP Plant,Automatic Transfer Switch,Fire Pump 2 ATS,400A,480Y/277V,3P4W,Normal: XFMR CP / Emergency: EMSB,Wall-mounted,Emergency,Tornatech fire pump controller - Pump #2
@@ -27,30 +27,30 @@ TEP Main Switch Electrical Room,Feeder Breaker,CH-3,,480Y/277V,3P4W,Main,Switchb
 TEP Main Switch Electrical Room,Feeder Breaker,HDP-RAD,,480Y/277V,3P4W,Main,Switchboard,Normal,Feeds HDP-RAD panel
 TEP Main Switch Electrical Room,Branch Panel,HP-EQ-CP,150A,480Y/277V,3P4W,EMD-CP,Wall-mounted,Emergency,
 TEP Main Switch Electrical Room,Branch Panel,LP-EQ-CP,100A,208Y/120V,3P4W,T-LP-EQ-CP,Wall-mounted,Emergency,
-TEP Main Switch Electrical Room,Transformer,T-LP-EQ-CP,30 kVA,480→208Y/120V,3P3W,HP-EQ-CP,Floor-mounted,Emergency,Square D dry-type transformer
-
-FLOOR SUMMARY - Equipment by Type:
-,Automatic Transfer Switch,2
-,Branch Panel,10
-,Disconnect,1
-,Feeder Breaker,6
-,Feeder Panel,1
-,Main Breaker,1
-,Transformer,3
-,FLOOR TOTAL,24
-
-
-FLOOR: Ground,Total Equipment: 113
-
+TEP Main Switch Electrical Room,Transformer,T-LP-EQ-CP,30 kVA,480-208Y/120V,3P3W,HP-EQ-CP,Floor-mounted,Emergency,Square D dry-type transformer
+,,,,,,,,,
+FLOOR SUMMARY - Equipment by Type:,,,,,,,,,
+,Automatic Transfer Switch,2,,,,,,,
+,Branch Panel,10,,,,,,,
+,Disconnect,1,,,,,,,
+,Feeder Breaker,6,,,,,,,
+,Feeder Panel,1,,,,,,,
+,Main Breaker,1,,,,,,,
+,Transformer,3,,,,,,,
+,FLOOR TOTAL,24,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+FLOOR: Ground,Total Equipment: 113,,,,,,,,
+,,,,,,,,,
 Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
-Cyber,Transformer,T-LACC,45 kVA,480→208Y/120V,3P3W,HP-LACC,Floor-mounted,Normal,Step-down transformer
-Cyber,Transformer,T-LACC2,45 kVA,480→208Y/120V,3P3W,HP-LACC,Suspended,Normal,Step-down transformer
+Cyber,Transformer,T-LACC,45 kVA,480-208Y/120V,3P3W,HP-LACC,Floor-mounted,Normal,Step-down transformer
+Cyber,Transformer,T-LACC2,45 kVA,480-208Y/120V,3P3W,HP-LACC,Suspended,Normal,Step-down transformer
 Cyber,Branch Panel,HP-LACC,150A,480Y/277V,3P4W,MDA-HB,Wall-mounted,Normal,Normal branch panel
 Cyber,Branch Panel,LP-LACC,150A,208Y/120V,3P4W,T-LACC,Wall-mounted,Normal,Normal branch panel
 Cyber,Disconnect,SF-1,15A,480Y/277V,3P3W,HP-LACC,Wall-mounted,Normal,Supply fan disconnect
 Cyber,Disconnect,EF-1,15A,480Y/277V,3P3W,HP-LACC,Wall-mounted,Normal,Exhaust fan disconnect
-ZL0.802,Transformer,T-LP-A,30 kVA,480→208Y/120V,3P3W,HP-A,Floor-mounted,Normal,Step-down transformer
-ZL0.802,Transformer,T-LP-EQ-A,30 kVA,480→208Y/120V,3P3W,HP-EQ-A,Floor-mounted,Emergency,Emergency step-down
+ZL0.802,Transformer,T-LP-A,30 kVA,480-208Y/120V,3P3W,HP-A,Floor-mounted,Normal,Step-down transformer
+ZL0.802,Transformer,T-LP-EQ-A,30 kVA,480-208Y/120V,3P3W,HP-EQ-A,Floor-mounted,Emergency,Emergency step-down
 ZL0.802,Branch Panel,HP-A,150A,480Y/277V,3P4W,MDA-HB,Wall-mounted,Normal,Normal branch panel
 ZL0.802,Branch Panel,HP-EQ-A,150A,480Y/277V,3P4W,EMDA-HB,Wall-mounted,Emergency,Emergency branch panel
 ZL0.802,Branch Panel,LP-A,100A,208Y/120V,3P4W,T-LP-A,Wall-mounted,Normal,Normal branch panel
@@ -62,8 +62,8 @@ ZL0.802,Disconnect,EF-3-5 DISC,15A,480V,3P3W,MDA-HB,Wall-mounted,Normal,Exhaust 
 ZL0.716,Disconnect,ELEV-8,100A,480Y/277V,3P3W,EMDA-HB,Wall-mounted,Emergency,Elevator #8
 ZL0.716,Disconnect,ELEV-9,100A,480Y/277V,3P3W,EMDA-HB,Wall-mounted,Emergency,Elevator #9
 ZL0.716,Disconnect,ELEV-10,100A,480V,3P3W,PNL MCCA/HB,Wall-mounted,Normal,Elevator #10
-ZL0.602,Transformer,T-LDP-H1,225 kVA,480→208Y/120V,3P3W,HDP-H1,Suspended,Normal,Step-down feeding LDP-H1
-ZL0.602,Transformer,T-DP-K,225 kVA,480→208Y/120V,3P3W,HP-K,Suspended,Normal,Step-down feeding DP-K
+ZL0.602,Transformer,T-LDP-H1,225 kVA,480-208Y/120V,3P3W,HDP-H1,Suspended,Normal,Step-down feeding LDP-H1
+ZL0.602,Transformer,T-DP-K,225 kVA,480-208Y/120V,3P3W,HP-K,Suspended,Normal,Step-down feeding DP-K
 ZL0.602,Feeder Panel,HDP-H1,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Distribution
 ZL0.602,Feeder Panel,HP-K,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Distribution
 ZL0.602,Feeder Panel,LDP-H1,1000A,208Y/120V,3P4W,HDP-PH,Wall-mounted,Normal,Lighting/power
@@ -73,12 +73,12 @@ ZL0.602,Branch Panel,LP-CR-GB,250A,208Y/120V,3P4W,LP-CR-GB,Wall-mounted,Emergenc
 ZL0.602,Branch Panel,LP-GC,100A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Lighting/power
 ZL0.602,Branch Panel,LP-GA,225A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Lighting/power
 ZL0.602,Branch Panel,LP-GA Sec 2,225A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,Section continuation
-ZL0.604,Transformer,T-LP-LS-GB,15 kVA,480→208Y/120V,3P3W,HP-LS-GA,Suspended,Emergency,Step-down
-ZL0.604,Transformer,T-LP-CR-G3,75 kVA,480→208Y/120V,3P3W,EHDP-CR-H,Suspended,Emergency,Step-down
-ZL0.604,Transformer,T-ELDP-CR-H,112.5 kVA,480→208Y/120V,3P3W,EHDP-CR-H,Suspended,Emergency,Step-down
-ZL0.604,Transformer,T-LP-CR-GC,45 kVA,480→208Y/120V,3P4W,T-LP-CR-GC PRI DISC,Suspended,Emergency,Step-down
-ZL0.604,Transformer,T-LP-LS-GA,15 kVA,480→208Y/120V,3P3W,HP-LS-GA,Floor-mounted,Emergency,Step-down
-ZL0.604,Transformer,T-LP-CR-GB,45 kVA,480→208Y/120V,3P4W,EHDP-CR-H,Floor-mounted,Emergency,Step-down
+ZL0.604,Transformer,T-LP-LS-GB,15 kVA,480-208Y/120V,3P3W,HP-LS-GA,Suspended,Emergency,Step-down
+ZL0.604,Transformer,T-LP-CR-G3,75 kVA,480-208Y/120V,3P3W,EHDP-CR-H,Suspended,Emergency,Step-down
+ZL0.604,Transformer,T-ELDP-CR-H,112.5 kVA,480-208Y/120V,3P3W,EHDP-CR-H,Suspended,Emergency,Step-down
+ZL0.604,Transformer,T-LP-CR-GC,45 kVA,480-208Y/120V,3P4W,T-LP-CR-GC PRI DISC,Suspended,Emergency,Step-down
+ZL0.604,Transformer,T-LP-LS-GA,15 kVA,480-208Y/120V,3P3W,HP-LS-GA,Floor-mounted,Emergency,Step-down
+ZL0.604,Transformer,T-LP-CR-GB,45 kVA,480-208Y/120V,3P4W,EHDP-CR-H,Floor-mounted,Emergency,Step-down
 ZL0.604,Feeder Panel,EHDP-LS,225A,480Y/277V,3P4W,ATS-LS,Wall-mounted,Emergency,Emergency distribution
 ZL0.604,Feeder Panel,EHDP-CR-H,400A,480Y/277V,3P4W,EHDP-CR,Wall-mounted,Emergency,Emergency distribution
 ZL0.604,Feeder Panel,ELDP-CR-H,400A,208Y/120V,3P4W,T-ELDP-CR-H,Wall-mounted,Emergency,Emergency lighting/power
@@ -92,7 +92,7 @@ ZL0.604,Branch Panel,LP-CR-GA,200A,208Y/120V,3P4W,ELDP-CR-H,Wall-mounted,Emergen
 ZL0.604,Branch Panel,LP-CR-GA Sec 2,200A,208Y/120V,3P4W,LP-CR-GA,Wall-mounted,Emergency,Section continuation
 ZL0.604,Disconnect,T-LP-CR-GC PRI DISC,150A,480Y/277V,3P3W,EHDP-CR-H,Wall-mounted,Emergency,Transformer primary
 ZL0.604,Disconnect,T-LP-CR-GC SEC DISC,150A,480Y/277V,3P4W,T-LP-CR-GC,Wall-mounted,Emergency,Transformer secondary
-ZL0.706,Transformer,T-LP-CR-GD,75 kVA,480→208Y/120V,3P4W,EHDP-CR-X,Floor-mounted,Emergency,Step-down
+ZL0.706,Transformer,T-LP-CR-GD,75 kVA,480-208Y/120V,3P4W,EHDP-CR-X,Floor-mounted,Emergency,Step-down
 ZL0.706,Feeder Panel,EHDP-CR-X,1200A,480Y/277V,3P4W,ATS-CRDX,Wall-mounted,Emergency,Emergency distribution
 ZL0.706,Branch Panel,LP-CR-2,150A,208Y/120V,3P4W,T-LP-CR-2,Wall-mounted,Emergency,Emergency lighting/power
 ZL0.706,Branch Panel,LP-CR-GD,250A,208Y/120V,3P4W,T-LP-CR-GD,Wall-mounted,Emergency,Emergency lighting/power
@@ -150,34 +150,34 @@ ZL0.904E1,Feeder Breaker,HDP-PH,800A,480Y/277V,3P4W,MSB-HB,Switchboard,Normal,
 ZL0.904E1,Feeder Breaker,ATS-CR,800A,480Y/277V,3P4W,MSB-HB,Switchboard,Normal,
 ZL0.904E1,Feeder Breaker,ATS-OR,800A,480Y/277V,3P4W,MSB-HB,Switchboard,Normal,
 ZL0.904E1,Feeder Breaker,ATS-CDPX,800A,480Y/277V,3P4W,MSB-HB,Switchboard,Normal,
-ZL0.904E1,Transformer,T-GENSET1,30 kVA,480→208Y/120V,3P4W,T-GENSET1 PRI DISC,Wall-mounted,Emergency,
-ZL0.904E1,Transformer,T-GENSET2,30 kVA,480→208Y/120V,3P4W,T-GENSET2 PRI DISC,Wall-mounted,Emergency,
+ZL0.904E1,Transformer,T-GENSET1,30 kVA,480-208Y/120V,3P4W,T-GENSET1 PRI DISC,Wall-mounted,Emergency,
+ZL0.904E1,Transformer,T-GENSET2,30 kVA,480-208Y/120V,3P4W,T-GENSET2 PRI DISC,Wall-mounted,Emergency,
 ZL0.904E1,Disconnect,T-GENSET1 PRI DISC,60A,480Y/277V,3P3W,HP-CR-CP-A,Wall-mounted,Emergency,
 ZL0.904E1,Disconnect,T-GENSET1 SEC DISC,100A,480Y/277V,3P4W,T-GENSET1,Wall-mounted,Emergency,
 ZL0.904E1,Disconnect,T-GENSET2 PRI DISC,60A,480Y/277V,3P3W,HP-CR-CP-A,Wall-mounted,Emergency,
 ZL0.904E1,Disconnect,T-GENSET2 SEC DISC,100A,480Y/277V,3P4W,T-GENSET2,Wall-mounted,Emergency,
-
-FLOOR SUMMARY - Equipment by Type:
-,Automatic Transfer Switch,6
-,Branch Panel,30
-,Disconnect,23
-,ECB,1
-,Feeder Breaker,19
-,Feeder Panel,17
-,Main Breaker,2
-,Transformer,15
-,FLOOR TOTAL,113
-
-
-FLOOR: 2nd Floor,Total Equipment: 53
-
+,,,,,,,,,
+FLOOR SUMMARY - Equipment by Type:,,,,,,,,,
+,Automatic Transfer Switch,6,,,,,,,
+,Branch Panel,30,,,,,,,
+,Disconnect,23,,,,,,,
+,ECB,1,,,,,,,
+,Feeder Breaker,19,,,,,,,
+,Feeder Panel,17,,,,,,,
+,Main Breaker,2,,,,,,,
+,Transformer,15,,,,,,,
+,FLOOR TOTAL,113,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+FLOOR: 2nd Floor,Total Equipment: 53,,,,,,,,
+,,,,,,,,,
 Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
-ZL2.106,Transformer,T-LP-EQ-2B,30 kVA,480→208Y/120V,3P3W,HP-EQ-2B,Suspended,Emergency,
+ZL2.106,Transformer,T-LP-EQ-2B,30 kVA,480-208Y/120V,3P3W,HP-EQ-2B,Suspended,Emergency,
 ZL2.106,Branch Panel,LP-EQ-2B,100A,208Y/120V,3P4W,T-LP-EQ-2B,Wall-mounted,Emergency,
 ZL2.106,Feeder Panel,HP-EQ-2B,150A,480Y/277V,3P4W,EMDA-HB,Wall-mounted,Emergency,
 ZL2.406,Branch Panel,LP-LS-2A,100A,208Y/120V,3P4W,LDP-H1,Wall-mounted,Normal,
 ZL2.406,Feeder Panel,HP-LS-2A,100A,480Y/277V,3P4W,HDP-H1,Wall-mounted,Normal,
-ZL2.406,Transformer,T-LP-LS-2A,15 kVA,480→208Y/120V,3P3W,HP-LS-2A,Suspended,Emergency,
+ZL2.406,Transformer,T-LP-LS-2A,15 kVA,480-208Y/120V,3P3W,HP-LS-2A,Suspended,Emergency,
 ZL2.410,Branch Panel,LP-CR-2BB,100A,208Y/120V,3P4W,ELDP-CR-H1,Wall-mounted,Emergency,
 ZL2.410,Branch Panel,LP-2BB,100A,208Y/120V,3P4W,LDP-H2,Wall-mounted,Normal,
 ZL2.818A,Branch Panel,LP-EQ-2A,100A,208Y/120V,3P4W,T-LP-EQ-2A,Wall-mounted,Emergency,
@@ -190,9 +190,9 @@ ZL2.818A,Branch Panel,LP-CR-2A SECTION 2,200A,208Y/120V,3P4W,LP-CR-2A,Wall-mount
 ZL2.818A,Feeder Panel,EHDP-OR1,400A,480Y/277V,3P4W,EHDP-CR-X,Wall-mounted,Emergency,
 ZL2.818A,Feeder Panel,ELDP-OR,500A,480Y/277V,3P4W,T-ELDP-OR,Wall-mounted,Emergency,
 ZL2.818A,ECB,T-ELDP-OR ECB,225A,480Y/277V,3P4W,ATS-OR,Wall-mounted,Emergency,Disconnect/Breaker
-ZL2.818A,Transformer,T-XFMR X-RAY,75 kVA,480→208Y/120V,3P3W,,Floor-mounted,Emergency,
-ZL2.818A,Transformer,T-ELDP-OR,150 kVA,480→208Y/120V,3P3W,ATS-OR,Floor-mounted,Emergency,
-ZL2.818A,Transformer,T-LP-EQ-2A,30 kVA,480→208Y/120V,3P3W,HP-EQ-2A,Floor-mounted,Emergency,
+ZL2.818A,Transformer,T-XFMR X-RAY,75 kVA,480-208Y/120V,3P3W,,Floor-mounted,Emergency,
+ZL2.818A,Transformer,T-ELDP-OR,150 kVA,480-208Y/120V,3P3W,ATS-OR,Floor-mounted,Emergency,
+ZL2.818A,Transformer,T-LP-EQ-2A,30 kVA,480-208Y/120V,3P3W,HP-EQ-2A,Floor-mounted,Emergency,
 OR-1,LIM Panel,OR1A,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
 OR-1,LIM Panel,OR1B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical for OR 1-10
 OR-1,LIM Panel,OR1C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
@@ -225,25 +225,25 @@ OR-10,LIM Panel,OR10B,60A,208/120V,2P3W,ELDP-OR,Wall-mounted,Emergency,Identical
 OR-10,LIM Panel,OR10C,60A,480Y/277V,2P3W,EHDP-OR1,Wall-mounted,Emergency,Identical for OR 1-10
 PROCEDURE 1,Branch Panel,PROCEDURE 1,100A,208Y/120V,3P4W,ELDP-OR,Wall-mounted,Emergency,
 PROCEDURE 2,Branch Panel,PROCEDURE 2,100A,208Y/120V,3P4W,ELDP-OR,Wall-mounted,Emergency,
-
-FLOOR SUMMARY - Equipment by Type:
-,Branch Panel,10
-,ECB,1
-,Feeder Panel,7
-,LIM Panel,30
-,Transformer,5
-,FLOOR TOTAL,53
-
-
-FLOOR: 3rd Floor,Total Equipment: 20
-
+,,,,,,,,,
+FLOOR SUMMARY - Equipment by Type:,,,,,,,,,
+,Branch Panel,10,,,,,,,
+,ECB,1,,,,,,,
+,Feeder Panel,7,,,,,,,
+,LIM Panel,30,,,,,,,
+,Transformer,5,,,,,,,
+,FLOOR TOTAL,53,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+FLOOR: 3rd Floor,Total Equipment: 20,,,,,,,,
+,,,,,,,,,
 Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
-ZL3.114,Transformer,T-ELDP-CR-H1,112.5 kVA,480→208Y/120V,3P3W,EHDP-CR-H,Floor-mounted,Emergency,Step-down transformer
+ZL3.114,Transformer,T-ELDP-CR-H1,112.5 kVA,480-208Y/120V,3P3W,EHDP-CR-H,Floor-mounted,Emergency,Step-down transformer
 ZL3.114,Disconnect,T-ELDP-CR-H1 Disconnect,250A,480Y/277V,3P4W,EHDP-CR-H,Wall-mounted,Emergency,Feeds transformer above
 ZL3.114,Feeder Panel,ELDP-CR-H1,400A,208Y/120V,3P4W,T-ELDP-CR-H1,Wall-mounted,Emergency,Emergency lighting/power feeder panel
 ZL3.114,Branch Panel,LP-CR-3C,125A,208Y/120V,3P4W,ELDP-CR-H,Wall-mounted,Emergency,Branch circuit panel
 ZL3.114,Branch Panel,LP-CR-3D,100A,208Y/120V,3P4W,ELDP-CR-H1,Wall-mounted,Emergency,Branch circuit panel
-ZL3.114,Transformer,T-LDP-H2,112.5 kVA,480→208Y/120V,3P3W,HDP-H1,Floor-mounted,Normal,Step-down transformer
+ZL3.114,Transformer,T-LDP-H2,112.5 kVA,480-208Y/120V,3P3W,HDP-H1,Floor-mounted,Normal,Step-down transformer
 ZL3.114,Disconnect,T-LDP-H2 Disconnect,250A,480Y/277V,3P4W,HDP-H1,Wall-mounted,Normal,Feeds transformer above
 ZL3.114,Feeder Panel,LDP-H2,400A,208Y/120V,3P4W,HDP-H1,Wall-mounted,Normal,Lighting/power feeder panel
 ZL3.114,Branch Panel,LP-3C,100A,208Y/120V,3P4W,LDP-H2,Wall-mounted,Normal,Branch circuit panel
@@ -258,17 +258,17 @@ ZL3.130H,Branch Panel,LP-CR-3A,150A,208Y/120V,3P4W,ELDP-CR-H,Wall-mounted,Emerge
 ZL3.130H,Branch Panel,LP-CR-3E,100A,208Y/120V,3P4W,ELDP-CR-H1,Wall-mounted,Emergency,Emergency branch panel
 ZL3.130H,Branch Panel,LP-CR-3F,100A,208Y/120V,3P4W,ELDP-CR-H1,Wall-mounted,Emergency,Emergency branch panel
 ZL3.130H,Branch Panel,LP-CR-3F Sec 2,100A,208Y/120V,3P4W,LP-CR-3F,Wall-mounted,Emergency,Branch circuit panel
-
-FLOOR SUMMARY - Equipment by Type:
-,Branch Panel,14
-,Disconnect,2
-,Feeder Panel,2
-,Transformer,2
-,FLOOR TOTAL,20
-
-
-FLOOR: 4th Floor,Total Equipment: 7
-
+,,,,,,,,,
+FLOOR SUMMARY - Equipment by Type:,,,,,,,,,
+,Branch Panel,14,,,,,,,
+,Disconnect,2,,,,,,,
+,Feeder Panel,2,,,,,,,
+,Transformer,2,,,,,,,
+,FLOOR TOTAL,20,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+FLOOR: 4th Floor,Total Equipment: 7,,,,,,,,
+,,,,,,,,,
 Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
 ZL4.331,Branch Panel,HP-CR-4A,100A,480Y/277V,3P4W,HP-CR-5A,Wall-mounted,Normal,Standard labeling; not generator-backed
 ZL4.331,Branch Panel,LP-4B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,Normal power
@@ -277,14 +277,14 @@ ZL4.331,Branch Panel,LP-4A,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Normal
 ZL4.331,Branch Panel,LP-4A Section 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Continuation section of LP-4A
 ZL4.331,Branch Panel,HP-4A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,Lighting/mechanical loads
 ZL4.331,Branch Panel,LP-CR-4B,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Normal,Critical branch
-
-FLOOR SUMMARY - Equipment by Type:
-,Branch Panel,7
-,FLOOR TOTAL,7
-
-
-FLOOR: 5th Floor,Total Equipment: 10
-
+,,,,,,,,,
+FLOOR SUMMARY - Equipment by Type:,,,,,,,,,
+,Branch Panel,7,,,,,,,
+,FLOOR TOTAL,7,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+FLOOR: 5th Floor,Total Equipment: 10,,,,,,,,
+,,,,,,,,,
 Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
 ZL5.236,Branch Panel,HP-CR-5A,100A,480Y/277V,3P4W,HP-CR-6A,Wall-mounted,Emergency,Schneider Square D
 ZL5.236,Branch Panel,LP-CR-5A,100A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,Handwritten circuits 5; 11; 3; 7; 9
@@ -295,16 +295,16 @@ ZL5.236,Branch Panel,HP-5A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,
 ZL5.236,Branch Panel,LP-5B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,
 ZL5.236,Branch Panel,HP-LS-5A,100A,480Y/277V,3P4W,EHDP-LS,Wall-mounted,Emergency,
 ZL5.236,Branch Panel,LP-LS-5A,50A,208Y/120V,3P4W,T-LP-LS-5A,Wall-mounted,Emergency,Fire alarm/emergency circuit inside
-ZL5.236,Transformer,T-LP-LS-5A,15 kVA,480→208Y/120V,3P3W,HP-LS-5A,Suspended,Emergency,Square D - mounted above rack
-
-FLOOR SUMMARY - Equipment by Type:
-,Branch Panel,9
-,Transformer,1
-,FLOOR TOTAL,10
-
-
-FLOOR: 6th Floor,Total Equipment: 8
-
+ZL5.236,Transformer,T-LP-LS-5A,15 kVA,480-208Y/120V,3P3W,HP-LS-5A,Suspended,Emergency,Square D - mounted above rack
+,,,,,,,,,
+FLOOR SUMMARY - Equipment by Type:,,,,,,,,,
+,Branch Panel,9,,,,,,,
+,Transformer,1,,,,,,,
+,FLOOR TOTAL,10,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+FLOOR: 6th Floor,Total Equipment: 8,,,,,,,,
+,,,,,,,,,
 Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
 ZL6.236,Branch Panel,HP-CR-6A,100A,480Y/277V,3P4W,EHDP-CR-HPH,Wall-mounted,Emergency,
 ZL6.236,Branch Panel,LP-CR-6C,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Emergency,
@@ -314,14 +314,14 @@ ZL6.236,Branch Panel,LP-6A SECTION 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Nor
 ZL6.236,Branch Panel,HP-6A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,
 ZL6.236,Branch Panel,LP-6B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,
 ZL6.236,Branch Panel,LP-CR-6B,50A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,
-
-FLOOR SUMMARY - Equipment by Type:
-,Branch Panel,8
-,FLOOR TOTAL,8
-
-
-FLOOR: 7th Floor,Total Equipment: 8
-
+,,,,,,,,,
+FLOOR SUMMARY - Equipment by Type:,,,,,,,,,
+,Branch Panel,8,,,,,,,
+,FLOOR TOTAL,8,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+FLOOR: 7th Floor,Total Equipment: 8,,,,,,,,
+,,,,,,,,,
 Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
 ZL7.236,Branch Panel,LP-CR-7BA,60A,208Y/120V,3P4W,LP-CR-7B,Wall-mounted,Emergency,
 ZL7.236,Branch Panel,HP-CR-7A,100A,480Y/277V,3P4W,HP-CR-8A,Wall-mounted,Emergency,
@@ -331,34 +331,34 @@ ZL7.236,Branch Panel,LP-7A SECTION 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Nor
 ZL7.236,Branch Panel,HP-7A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,
 ZL7.236,Branch Panel,LP-7B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,
 ZL7.236,Branch Panel,LP-CR-7B,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Emergency,
-
-FLOOR SUMMARY - Equipment by Type:
-,Branch Panel,8
-,FLOOR TOTAL,8
-
-
-FLOOR: 8th Floor,Total Equipment: 10
-
+,,,,,,,,,
+FLOOR SUMMARY - Equipment by Type:,,,,,,,,,
+,Branch Panel,8,,,,,,,
+,FLOOR TOTAL,8,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+FLOOR: 8th Floor,Total Equipment: 10,,,,,,,,
+,,,,,,,,,
 Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
 ZL8.224,Branch Panel,HP-CR-8A,100A,480Y/277V,3P4W,E HDP-CR-HPH,Wall-mounted,Emergency,Emergency branch circuit panel
 ZL8.224,Branch Panel,LP-CR-8A,100A,208Y/120V,3P4W,ELDP-CR-HPH,Wall-mounted,Emergency,Emergency lighting/power branch panel
 ZL8.224,Branch Panel,LP-CR-8B,100A,208Y/120V,3P4W,ELDP-CR-HPH1,Wall-mounted,Emergency,Emergency lighting/power branch panel
 ZL8.224,Branch Panel,HP-LS-8A,100A,480Y/277V,3P4W,HP-LS-5A,Wall-mounted,Emergency,Life safety branch circuit panel
 ZL8.224,Branch Panel,LP-LS-8A,50A,208Y/120V,3P4W,T-LP-LS-8A,Wall-mounted,Emergency,Fire alarm/emergency branch panel
-ZL8.224,Transformer,T-LP-LS-8A,15 kVA,480→208Y/120V,3P3W,HP-LS-8A,Suspended,Emergency,Step-down transformer
+ZL8.224,Transformer,T-LP-LS-8A,15 kVA,480-208Y/120V,3P3W,HP-LS-8A,Suspended,Emergency,Step-down transformer
 ZL8.224,Branch Panel,HP-8A,100A,480Y/277V,3P4W,HDP-PH,Wall-mounted,Normal,Normal power branch circuit panel
 ZL8.224,Branch Panel,LP-8A,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Normal lighting/power branch panel
 ZL8.224,Branch Panel,LP-8A Section 2,225A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Continuation section of LP-8A
 ZL8.224,Branch Panel,LP-8B,100A,208Y/120V,3P4W,LDP-PH1,Wall-mounted,Normal,Normal lighting/power branch panel
-
-FLOOR SUMMARY - Equipment by Type:
-,Branch Panel,9
-,Transformer,1
-,FLOOR TOTAL,10
-
-
-FLOOR: 9th Floor,Total Equipment: 40
-
+,,,,,,,,,
+FLOOR SUMMARY - Equipment by Type:,,,,,,,,,
+,Branch Panel,9,,,,,,,
+,Transformer,1,,,,,,,
+,FLOOR TOTAL,10,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+FLOOR: 9th Floor,Total Equipment: 34,,,,,,,,
+,,,,,,,,,
 Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,Fed From,Mounting,System Type,Notes
 9th Floor Electrical Room,Feeder Panel,E HDP-CR-HPH,250A,480Y/277V,3P4W,E HDP-CR,Wall-mounted,Emergency,Square D I-Line feeder panel
 9th Floor Electrical Room,Feeder Panel,ELDP-CR-HPH,400A,208Y/120V,3P4W,T-ELDP-CR-HPH,Wall-mounted,Normal,Square D I-Line feeder panel
@@ -367,66 +367,56 @@ Room Number,Equipment Type,Equipment Name/Label,Amperage/kVA,Voltage,Phase/Wire,
 9th Floor Electrical Room,Branch Panel,LP-9A,100A,208Y/120V,3P4W,LDP-PH,Wall-mounted,Normal,Square D branch-circuit panel
 9th Floor Electrical Room,Feeder Panel,LDP-PH,1000A,208Y/120V,3P4W,T-LDP-PH,Wall-mounted,Normal,Square D I-Line feeder panel
 9th Floor Electrical Room,Feeder Panel,HDP-PH,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Square D I-Line feeder panel
-9th Floor Electrical Room,Transformer,T-ELDP-CR-HPH,112.5 kVA,480→208Y/120V,3P4W,E HDP-CR-HPH,Floor-mounted,Normal,Step-down; floor-mounted
-9th Floor Electrical Room,Transformer,T-ELDP-CR-HPH1,112.5 kVA,480→208Y/120V,3P4W,E HDP-CR-HPH,Floor-mounted,Normal,Step-down; floor-mounted
-9th Floor Electrical Room,Transformer,T-LDP-PH1,150 kVA,480→208Y/120V,3P3W,HDP-PH,Floor-mounted,Normal,Step-down; floor-mounted
-9th Floor Electrical Room,Transformer,T-LDP-PH,300 kVA,480→208Y/120V,3P3W,HDP-PH,Floor-mounted,Normal,Step-down; floor-mounted
+9th Floor Electrical Room,Transformer,T-ELDP-CR-HPH,112.5 kVA,480-208Y/120V,3P4W,E HDP-CR-HPH,Floor-mounted,Normal,Step-down; floor-mounted
+9th Floor Electrical Room,Transformer,T-ELDP-CR-HPH1,112.5 kVA,480-208Y/120V,3P4W,E HDP-CR-HPH,Floor-mounted,Normal,Step-down; floor-mounted
+9th Floor Electrical Room,Transformer,T-LDP-PH1,150 kVA,480-208Y/120V,3P3W,HDP-PH,Floor-mounted,Normal,Step-down; floor-mounted
+9th Floor Electrical Room,Transformer,T-LDP-PH,300 kVA,480-208Y/120V,3P3W,HDP-PH,Floor-mounted,Normal,Step-down; floor-mounted
 Penthouse General Area,Feeder Panel,MD-PH,800A,480Y/277V,3P4W,MSB-HB,Wall-mounted,Normal,Square D I-Line feeder panel
 Penthouse General Area,Feeder Panel,HP-PH,150A,480Y/277V,3P4W,MD-PH,Wall-mounted,Normal,Square D I-Line feeder panel
 Penthouse General Area,Feeder Panel,LP-PH,100A,208Y/120V,3P4W,T-LP-PH,Wall-mounted,Normal,Square D I-Line feeder panel
 Penthouse General Area,Feeder Panel,LP-EQ-PH,100A,208Y/120V,3P4W,LP-EQ-2A,Wall-mounted,Emergency,Square D I-Line feeder panel
-Penthouse General Area,Transformer,T-LP-PH,30 kVA,480→208Y/120V,3P3W,HP-PH,Floor-mounted,Normal,Square D dry-type; floor-mounted
+Penthouse General Area,Transformer,T-LP-PH,30 kVA,480-208Y/120V,3P3W,HP-PH,Floor-mounted,Normal,Square D dry-type; floor-mounted
 Penthouse General Area,Disconnect,EF-9-1,15A,480Y/277V,3P3W,MD-PH,Wall-mounted,Normal,Exhaust-fan disconnect
 9th Floor Elevator Room 1,Feeder Panel,DP-2,350A,480Y/277V,3P4W,E-HDP-EE2,Wall-mounted,Emergency,Square D I-Line feeder panel
 9th Floor Elevator Room 1,Branch Panel,FRT ELEV LOAD CENTER,,,,,Wall-mounted,,Freight Elevator Load Center
 9th Floor Elevator Room 1,Disconnect,ELEV A-973,125A,480Y/277V,3P3W,DP-2,Wall-mounted,Emergency,Disconnect for Elevator #4
 9th Floor Elevator Room 1,Disconnect,ELEV B-974,125A,480Y/277V,3P3W,DP-2,Wall-mounted,Emergency,Disconnect for Elevator #5
 9th Floor Elevator Room 1,Disconnect,ELEV C-975,125A,480Y/277V,3P3W,DP-2,Wall-mounted,Emergency,Disconnect for Elevator #6
-9th Floor Elevator Room 1,Transformer,Elevator 1 Transformer,51 kVA,480→169/92V,3P,,Floor-mounted,,Jefferson Electric 423-E500-057
-9th Floor Elevator Room 1,DC Output Filter,Elevator 1 DC Filter,,600 VDC / 200A,1P,,Floor-mounted,,Jefferson Electric 300-5043-101
-9th Floor Elevator Room 1,Transformer,Elevator 2 Transformer,51 kVA,480→169/92V,3P,,Floor-mounted,,Jefferson Electric 423-E500-057
-9th Floor Elevator Room 1,DC Output Filter,Elevator 2 DC Filter,,600 VDC / 200A,1P,,Floor-mounted,,Jefferson Electric 300-5043-101
-9th Floor Elevator Room 1,Transformer,Elevator 3 Transformer,51 kVA,480→169/92V,3P,,Floor-mounted,,Jefferson Electric 423-E500-057
-9th Floor Elevator Room 1,DC Output Filter,Elevator 3 DC Filter,,600 VDC / 200A,1P,,Floor-mounted,,Jefferson Electric 300-5043-101
-9th Floor Elevator Room 1,Transformer,Elevator 4 Transformer,63 kVA,480→210Y/121V,3P,,Floor-mounted,,Jefferson Electric 423-E500-174
-9th Floor Elevator Room 1,DC Output Filter,Elevator 4 DC Filter,,600 VDC / 200A,1P,,Floor-mounted,,Jefferson Electric 300-5043-101
-9th Floor Elevator Room 1,Transformer,Elevator 5 Transformer,63 kVA,480→210Y/121V,3P,,Floor-mounted,,Jefferson Electric 423-E500-174
-9th Floor Elevator Room 1,DC Output Filter,Elevator 5 DC Filter,,600 VDC / 200A,1P,,Floor-mounted,,Jefferson Electric 300-5043-101
-9th Floor Elevator Room 1,Transformer,Elevator 6 Transformer,63 kVA,480→480Y/277V,3P,,Floor-mounted,,Hammond Power Solutions DM063KK
-9th Floor Elevator Room 1,Resistor Box,Elevator 6 Resistor Box,,480V,,,Wall/Floor-mounted,,G.A.L / Galaxy braking resistor
+9th Floor Elevator Room 1,Transformer,Elevator 1 Transformer,51 kVA,480-169/92V,3P,,Floor-mounted,,Jefferson Electric 423-E500-057
+9th Floor Elevator Room 1,Transformer,Elevator 2 Transformer,51 kVA,480-169/92V,3P,,Floor-mounted,,Jefferson Electric 423-E500-057
+9th Floor Elevator Room 1,Transformer,Elevator 3 Transformer,51 kVA,480-169/92V,3P,,Floor-mounted,,Jefferson Electric 423-E500-057
+9th Floor Elevator Room 1,Transformer,Elevator 4 Transformer,63 kVA,480-210Y/121V,3P,,Floor-mounted,,Jefferson Electric 423-E500-174
+9th Floor Elevator Room 1,Transformer,Elevator 5 Transformer,63 kVA,480-210Y/121V,3P,,Floor-mounted,,Jefferson Electric 423-E500-174
+9th Floor Elevator Room 1,Transformer,Elevator 6 Transformer,63 kVA,480-480Y/277V,3P,,Floor-mounted,,Hammond Power Solutions DM063KK
 9th Floor Elevator Room 2,Feeder Panel,DP-1,225A,480Y/277V,3P4W,E-HDP-EE2,Wall-mounted,Emergency,Square D I-Line feeder panel
 9th Floor Elevator Room 2,Branch Panel,PASS ELEV LOAD CENTER,,,,,Wall-mounted,,Passenger Elevator Load Center
 9th Floor Elevator Room 2,Disconnect,ELEV 76,100A,480Y/277V,3P3W,DP-1,Wall-mounted,Emergency,Eaton HD safety switch
 9th Floor Elevator Room 2,Disconnect,ELEV 77,100A,480Y/277V,3P3W,DP-1,Wall-mounted,Emergency,Eaton HD safety switch
 9th Floor Elevator Room 2,Disconnect,ELEV 78,100A,480Y/277V,3P3W,DP-1,Wall-mounted,Emergency,Eaton HD safety switch
-9th Floor Elevator Room 2,Transformer,Elevator Transformers (6 total),,480→208/120V (est.),3P,,Floor-mounted,,Unmarked; to be IR scanned
-
-FLOOR SUMMARY - Equipment by Type:
-,Branch Panel,3
-,DC Output Filter,5
-,Disconnect,7
-,Feeder Panel,12
-,Resistor Box,1
-,Transformer,12
-,FLOOR TOTAL,40
-
-
-================================================================================
-GRAND TOTAL - ALL FLOORS
-================================================================================
-
-Equipment Type,Total Count
-Automatic Transfer Switch,8
-Branch Panel,108
-DC Output Filter,5
-Disconnect,33
-ECB,2
-Feeder Breaker,25
-Feeder Panel,39
-LIM Panel,30
-Main Breaker,3
-Resistor Box,1
-Transformer,39
-
-GRAND TOTAL - ALL EQUIPMENT,293
-================================================================================
+9th Floor Elevator Room 2,Transformer,Elevator Transformers (6 total),,480-208/120V (est.),3P,,Floor-mounted,,Unmarked; to be IR scanned
+,,,,,,,,,
+FLOOR SUMMARY - Equipment by Type:,,,,,,,,,
+,Branch Panel,3,,,,,,,
+,Disconnect,7,,,,,,,
+,Feeder Panel,12,,,,,,,
+,Transformer,12,,,,,,,
+,FLOOR TOTAL,34,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+===========================,,,,,,,,,
+GRAND TOTAL - ALL FLOORS,,,,,,,,,
+===========================,,,,,,,,,
+,,,,,,,,,
+Equipment Type,Total Count,,,,,,,,
+Automatic Transfer Switch,8,,,,,,,,
+Branch Panel,108,,,,,,,,
+Disconnect,33,,,,,,,,
+ECB,2,,,,,,,,
+Feeder Breaker,25,,,,,,,,
+Feeder Panel,39,,,,,,,,
+LIM Panel,30,,,,,,,,
+Main Breaker,3,,,,,,,,
+Transformer,39,,,,,,,,
+,,,,,,,,,
+GRAND TOTAL - ALL EQUIPMENT,287,,,,,,,,
+===========================,,,,,,,,,

@@ -6,6 +6,12 @@ with open('Consolidated_Hospital_Equipment_Master.csv', 'r', encoding='utf-8') a
     reader = csv.DictReader(f)
     data = list(reader)
 
+# Define equipment types to exclude (elevator-specific components)
+excluded_types = ['DC Output Filter', 'Resistor Box']
+
+# Filter to only distribution equipment
+data = [row for row in data if row['Equipment Type'] not in excluded_types]
+
 # Define floor order (TEP Plant at bottom, then Ground, then numbered floors)
 floor_order = {
     'TEP Plant': -1,
